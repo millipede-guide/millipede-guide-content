@@ -1,0 +1,32 @@
+{
+    "name": "Kings Canyon National Park",
+    "country": "USA",
+    "region": "California",
+    "location": [
+        36.8,
+        -118.55
+    ],
+    "osm": {
+        "relation": [
+            36
+        ]
+    },
+    "features": {
+        "national_park": true
+    },
+    "photos": [
+        {
+            "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/kings_canyon_national_park/zumwalt_meadow/IMG_9273.jpg",
+            "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/kings_canyon_national_park/zumwalt_meadow/IMG_9273.jpg",
+            "attr": "Reilly Beacom",
+            "license": "CC BY-NC-SA 4.0"
+        }
+    ],
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Kings_Canyon_National_Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}
