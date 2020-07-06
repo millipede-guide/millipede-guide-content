@@ -1,0 +1,20 @@
+name: Washpool National Park
+country: Australia
+region: New South Wales
+location:
+  - -29.349609
+  - 152.339363
+osm:
+  relation: 5926152
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/2/28/Washpool.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/2/28/Washpool.jpg'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Washpool_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

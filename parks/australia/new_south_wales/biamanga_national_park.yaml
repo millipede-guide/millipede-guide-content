@@ -1,0 +1,20 @@
+name: Biamanga National Park
+country: Australia
+region: New South Wales
+location:
+  - -36.454639
+  - 149.950287
+osm:
+  relation: 5944538
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/7/7d/Mumbulla_Mountain_from_Princes_Highway.JPG'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/7/7d/Mumbulla_Mountain_from_Princes_Highway.JPG'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Biamanga_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

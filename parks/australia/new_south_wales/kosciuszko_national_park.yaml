@@ -1,0 +1,16 @@
+name: Kosciuszko National Park
+country: Australia
+region: New South Wales
+location:
+  - -36.056658
+  - 148.373391
+osm:
+  relation: 2363804
+features:
+  national_park: true
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Kosciuszko_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/npws.nsf/Content/k_np_mgmtplan'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

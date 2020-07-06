@@ -1,0 +1,21 @@
+name: Border Ranges National Park
+country: Australia
+region: New South Wales
+location:
+  - -28.407418
+  - 153.067723
+osm:
+  relation: 5816906
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/e/e9/BrindleCreek.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/e/e9/BrindleCreek.jpg'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Border_Ranges_National_Park'
+  official: 'https://www.nationalparks.nsw.gov.au/visit-a-park/parks/border-ranges-national-park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

@@ -1,0 +1,16 @@
+name: Willandra National Park
+country: Australia
+region: New South Wales
+location:
+  - -33.215162
+  - 144.936271
+osm:
+  relation: 6012316
+features:
+  national_park: true
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Willandra_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/willandra-national-park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

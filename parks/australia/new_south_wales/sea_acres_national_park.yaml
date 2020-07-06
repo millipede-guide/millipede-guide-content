@@ -1,0 +1,21 @@
+name: Sea Acres National Park
+country: Australia
+region: New South Wales
+location:
+  - -31.466189
+  - 152.931583
+osm:
+  relation: 8269361
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sea_Acres_Bangalow_Palm.JPG'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Sea_Acres_Bangalow_Palm.JPG'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Sea_Acres_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/sea-acres-national-park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

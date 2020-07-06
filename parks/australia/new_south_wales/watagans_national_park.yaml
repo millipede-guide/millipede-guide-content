@@ -1,0 +1,16 @@
+name: Watagans National Park
+country: Australia
+region: New South Wales
+location:
+  - -33.009524
+  - 151.376892
+osm:
+  relation: 6056386
+features:
+  national_park: true
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Watagans_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/visit-a-park/parks/Watagans-National-Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

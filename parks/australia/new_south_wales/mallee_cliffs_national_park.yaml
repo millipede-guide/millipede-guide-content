@@ -1,0 +1,19 @@
+name: Mallee Cliffs National Park
+country: Australia
+region: New South Wales
+location:
+  - -34.175278
+  - 142.576944
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/0/01/Eucalyptus_dumosa.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/0/01/Eucalyptus_dumosa.jpg'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Mallee_Cliffs_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/visit-a-park/parks/Mallee-Cliffs-National-Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

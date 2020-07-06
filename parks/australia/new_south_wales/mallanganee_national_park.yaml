@@ -1,0 +1,20 @@
+name: Mallanganee National Park
+country: Australia
+region: New South Wales
+location:
+  - -28.906036
+  - 152.758479
+osm:
+  relation: 5964486
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Hoop_Pines_at_Mallanganee_National_Park.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Hoop_Pines_at_Mallanganee_National_Park.jpg'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Mallanganee_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

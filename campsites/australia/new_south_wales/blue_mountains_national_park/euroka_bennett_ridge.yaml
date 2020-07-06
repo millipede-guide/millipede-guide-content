@@ -1,0 +1,92 @@
+name: Bennetts Ridge - Euroka
+park: Blue Mountains National Park
+region: New South Wales
+country: Australia
+location:
+  - -33.800874
+  - 150.618716
+nearest_town:
+  name: Glenbrook
+  location:
+    - -33.767126
+    - 150.622493
+photos:
+  - src: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4448.jpg'
+    href: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4448.jpg'
+    attr: multipolygon
+    license: CC BY-NC-SA 4.0
+  - src: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4449.jpg'
+    href: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4449.jpg'
+    attr: multipolygon
+    license: CC BY-NC-SA 4.0
+  - src: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4450.jpg'
+    href: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4450.jpg'
+    attr: multipolygon
+    license: CC BY-NC-SA 4.0
+  - src: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4452.jpg'
+    href: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4452.jpg'
+    attr: multipolygon
+    license: CC BY-NC-SA 4.0
+  - src: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4453.jpg'
+    href: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4453.jpg'
+    attr: multipolygon
+    license: CC BY-NC-SA 4.0
+  - src: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4454.jpg'
+    href: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4454.jpg'
+    attr: multipolygon
+    license: CC BY-NC-SA 4.0
+  - src: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4455.jpg'
+    href: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4455.jpg'
+    attr: multipolygon
+    license: CC BY-NC-SA 4.0
+features:
+  tree_fall_risk: true
+  allocated_campsites: false
+  showers: false
+  tables: true
+  rubbish_bins: true
+  drive_in_campsites: false
+accessibility:
+  short_walk: true
+  wheelchair: true
+restrictions:
+  campfires: true
+  gathering_firewood: false
+  generators: false
+  dogs: false
+  smoking: false
+  amplified_music: false
+getting_there:
+  car: true
+  sealed_road: false
+  causeway: true
+links:
+  official: 'https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/euroka-campground'
+infrastructure:
+  toilets:
+    - location:
+        - -33.80045
+        - 150.61907
+      photos:
+        - src: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4451.jpg'
+          href: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4451.jpg'
+          attr: multipolygon
+          license: CC BY-NC-SA 4.0
+      tags:
+        disposal: pit
+        wheelchair: 'yes'
+  parking:
+    - name: Bennett Ridge Trail
+      location:
+        - -33.8002
+        - 150.61875
+      osm:
+        way: 48990761
+      photos:
+        - src: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4447.jpg'
+          href: 'https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4447.jpg'
+          attr: multipolygon
+          license: CC BY-NC-SA 4.0
+copyright:
+  - multipolygon
+license: CC BY-NC-SA 4.0

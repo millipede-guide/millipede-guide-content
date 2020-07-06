@@ -1,0 +1,21 @@
+name: Sequoia National Park
+country: USA
+region: California
+location:
+  - 36.43
+  - -118.68
+osm:
+  relation:
+    - 36
+features:
+  national_park: true
+photos:
+  - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9124.jpg'
+    href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9124.jpg'
+    attr: multipolygon
+    license: CC BY-NC-SA 4.0
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Sequoia_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

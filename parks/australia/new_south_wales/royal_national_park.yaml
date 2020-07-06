@@ -1,0 +1,21 @@
+name: Royal National Park
+country: Australia
+region: New South Wales
+location:
+  - -34.1122
+  - 151.026727
+osm:
+  relation: 285416
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Late_Afternoon_at_North_%26_South_Era.jpg/1200px-Late_Afternoon_at_North_%26_South_Era.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Late_Afternoon_at_North_%26_South_Era.jpg/1200px-Late_Afternoon_at_North_%26_South_Era.jpg'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Royal_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/parks.nsf/parkContent/N0030?OpenDocument&ParkKey=N0030&Type=Xo'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

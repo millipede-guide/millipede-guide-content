@@ -1,0 +1,21 @@
+name: Marramarra National Park
+country: Australia
+region: New South Wales
+location:
+  - -33.493956
+  - 151.112035
+osm:
+  relation: 5993690
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%281%29Berowra_Creek_Marramarra_NP.jpg/1200px-%281%29Berowra_Creek_Marramarra_NP.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%281%29Berowra_Creek_Marramarra_NP.jpg/1200px-%281%29Berowra_Creek_Marramarra_NP.jpg'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Marramarra_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/marramarra-national-park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

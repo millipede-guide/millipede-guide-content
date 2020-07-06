@@ -1,0 +1,18 @@
+name: Ben Halls Gap National Park
+country: Australia
+region: New South Wales
+location:
+  - -31.619722
+  - 151.185
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ben_Halls_Gap_National_Park.jpg/1200px-Ben_Halls_Gap_National_Park.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ben_Halls_Gap_National_Park.jpg/1200px-Ben_Halls_Gap_National_Park.jpg'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Ben_Halls_Gap_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

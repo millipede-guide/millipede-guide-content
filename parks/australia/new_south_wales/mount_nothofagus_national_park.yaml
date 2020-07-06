@@ -1,0 +1,15 @@
+name: Mount Nothofagus National Park
+country: Australia
+region: New South Wales
+location:
+  - -28.303566
+  - 152.614638
+osm:
+  relation: 5951378
+features:
+  national_park: true
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Mount_Nothofagus_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

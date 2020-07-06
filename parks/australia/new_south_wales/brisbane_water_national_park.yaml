@@ -1,0 +1,21 @@
+name: Brisbane Water National Park
+country: Australia
+region: New South Wales
+location:
+  - -33.515715
+  - 151.269777
+osm:
+  relation: 5860233
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Brisbane_Water_National_Park_from_Bar_Point.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Brisbane_Water_National_Park_from_Bar_Point.jpg'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Brisbane_Water_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/brisbane-water-national-park/map'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

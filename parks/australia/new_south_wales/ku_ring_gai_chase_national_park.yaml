@@ -1,0 +1,21 @@
+name: Ku-ring-gai Chase National Park
+country: Australia
+region: New South Wales
+location:
+  - -33.628226
+  - 151.229354
+osm:
+  relation: 5989782
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Towlers_Bay_AL.jpg/1200px-Towlers_Bay_AL.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Towlers_Bay_AL.jpg/1200px-Towlers_Bay_AL.jpg'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Ku-ring-gai_Chase_National_Park'
+  official: 'https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kuringgai-chase-national-park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

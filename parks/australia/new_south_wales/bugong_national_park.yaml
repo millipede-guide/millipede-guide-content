@@ -1,0 +1,15 @@
+name: Bugong National Park
+country: Australia
+region: New South Wales
+location:
+  - -34.806655
+  - 150.457843
+osm:
+  relation: 6044250
+features:
+  national_park: true
+links:
+  wikipedia: 'https://en.wikipedia.org/w/index.php?title=Bugong_National_Park&action=edit&redlink=1'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

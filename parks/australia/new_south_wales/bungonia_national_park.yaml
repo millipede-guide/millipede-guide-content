@@ -1,0 +1,21 @@
+name: Bungonia National Park
+country: Australia
+region: New South Wales
+location:
+  - -34.79955
+  - 150.022725
+osm:
+  relation: 6044265
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bungonia_lookdown3.jpg/1200px-Bungonia_lookdown3.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bungonia_lookdown3.jpg/1200px-Bungonia_lookdown3.jpg'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Bungonia_National_Park'
+  official: 'https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bungonia-national-park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

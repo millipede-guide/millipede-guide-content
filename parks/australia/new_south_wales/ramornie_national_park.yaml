@@ -1,0 +1,15 @@
+name: Ramornie National Park
+country: Australia
+region: New South Wales
+location:
+  - -29.720417
+  - 152.668418
+osm:
+  relation: 6015060
+features:
+  national_park: true
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Ramornie_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

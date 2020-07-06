@@ -1,0 +1,15 @@
+name: Murray Valley National Park
+country: Australia
+region: New South Wales
+location:
+  - -35.814304
+  - 145.106779
+osm:
+  relation: 5872853
+features:
+  national_park: true
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Murray_Valley_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

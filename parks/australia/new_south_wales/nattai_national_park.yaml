@@ -1,0 +1,21 @@
+name: Nattai National Park
+country: Australia
+region: New South Wales
+location:
+  - -34.233613
+  - 150.399626
+osm:
+  relation: 5910128
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/a/af/Nattai_National_Park%2C_Wollondilly_Lookout_sridgway.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/a/af/Nattai_National_Park%2C_Wollondilly_Lookout_sridgway.jpg'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Nattai_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/nattai-national-park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

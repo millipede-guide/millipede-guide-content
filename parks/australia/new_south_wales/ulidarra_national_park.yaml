@@ -1,0 +1,15 @@
+name: Ulidarra National Park
+country: Australia
+region: New South Wales
+location:
+  - -30.250982
+  - 153.082702
+osm:
+  relation: 6055943
+features:
+  national_park: true
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Ulidarra_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

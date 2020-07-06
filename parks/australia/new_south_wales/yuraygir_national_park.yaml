@@ -1,0 +1,21 @@
+name: Yuraygir National Park
+country: Australia
+region: New South Wales
+location:
+  - -29.821022
+  - 153.221729
+osm:
+  relation: 5911645
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sternopriscus_weiri_New_South_Wales_Yuraygir_NP_Minnie_Water_Lake.JPG/1200px-Sternopriscus_weiri_New_South_Wales_Yuraygir_NP_Minnie_Water_Lake.JPG'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sternopriscus_weiri_New_South_Wales_Yuraygir_NP_Minnie_Water_Lake.JPG/1200px-Sternopriscus_weiri_New_South_Wales_Yuraygir_NP_Minnie_Water_Lake.JPG'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Yuraygir_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/yuraygir-national-park/yuraygir-coastal-walk/walking'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

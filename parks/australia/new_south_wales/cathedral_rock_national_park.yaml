@@ -1,0 +1,20 @@
+name: Cathedral Rock National Park
+country: Australia
+region: New South Wales
+location:
+  - -30.436552
+  - 152.205657
+osm:
+  relation: 6022634
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cathedral_Rock_NP.JPG/1200px-Cathedral_Rock_NP.JPG'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cathedral_Rock_NP.JPG/1200px-Cathedral_Rock_NP.JPG'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Cathedral_Rock_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

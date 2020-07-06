@@ -1,0 +1,20 @@
+name: Macquarie Pass National Park
+country: Australia
+region: New South Wales
+location:
+  - -34.567528
+  - 150.647919
+osm:
+  relation: 6055615
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Macquarie_Pass_NP_rainforest.JPG'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Macquarie_Pass_NP_rainforest.JPG'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Macquarie_Pass_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

@@ -1,0 +1,15 @@
+name: Single National Park
+country: Australia
+region: New South Wales
+location:
+  - -29.999975
+  - 151.411548
+osm:
+  relation: 6020175
+features:
+  national_park: true
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Single_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

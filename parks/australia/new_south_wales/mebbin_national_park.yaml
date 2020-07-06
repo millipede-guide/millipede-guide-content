@@ -1,0 +1,15 @@
+name: Mebbin National Park
+country: Australia
+region: New South Wales
+location:
+  - -28.451938
+  - 153.165332
+osm:
+  relation: 5928172
+features:
+  national_park: true
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Mebbin_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

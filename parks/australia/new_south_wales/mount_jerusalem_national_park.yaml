@@ -1,0 +1,20 @@
+name: Mount Jerusalem National Park
+country: Australia
+region: New South Wales
+location:
+  - -28.508441
+  - 153.3705
+osm:
+  relation: 5928426
+features:
+  national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lake_on_koonyum_range_%2815931139568%29.jpg/1200px-Lake_on_koonyum_range_%2815931139568%29.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lake_on_koonyum_range_%2815931139568%29.jpg/1200px-Lake_on_koonyum_range_%2815931139568%29.jpg'
+    attr: Wikimedia
+    license: wikimedia
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Mount_Jerusalem_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

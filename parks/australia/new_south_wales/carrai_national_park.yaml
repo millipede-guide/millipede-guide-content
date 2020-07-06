@@ -1,0 +1,15 @@
+name: Carrai National Park
+country: Australia
+region: New South Wales
+location:
+  - -30.878804
+  - 152.247128
+osm:
+  relation: 6047137
+features:
+  national_park: true
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Carrai_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0

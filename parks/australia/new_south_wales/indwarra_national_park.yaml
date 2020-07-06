@@ -1,0 +1,15 @@
+name: Indwarra National Park
+country: Australia
+region: New South Wales
+location:
+  - -30.086144
+  - 151.256266
+osm:
+  relation: 6020304
+features:
+  national_park: true
+links:
+  wikipedia: 'https://en.wikipedia.org/wiki/Indwarra_National_Park'
+copyright:
+  - Wikipedia
+license: CC BY-NC-SA 4.0
