@@ -536,6 +536,37 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.24717,
+                    -38.85902
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {},
+                "name": "Parking - Big Drift / Stockyard Camp",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.235479,
+                    -38.86906
+                ]
+            },
+            "properties": {
+                "type": "attraction",
+                "name": "Big Drift Sand Dunes"
+            }
         }
     ]
 }

@@ -4306,6 +4306,734 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.378625,
+                    -37.784722
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 2292079556
+                },
+                "name": "Toilets - Mount Evelyn",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.52806,
+                    -37.77598
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {},
+                "name": "Toilets - Woori Yallock",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/infrastructure/IMG_5137.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/infrastructure/IMG_5137.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                },
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.611929,
+                    -37.781394
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 802008379
+                },
+                "name": "Toilets - Yarra Junction Reserve",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/infrastructure/IMG_5156.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/infrastructure/IMG_5156.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                },
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.653874,
+                    -37.754905
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 835059499
+                },
+                "name": "Toilets - Sawmill",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.695858,
+                    -37.752579
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 2449261651
+                },
+                "name": "Toilets - Warburton Reserve",
+                "photo": null,
+                "tags": {
+                    "access": "yes",
+                    "wheelchair": "yes",
+                    "unisex": "yes",
+                    "drinking_water": "yes",
+                    "disposal": "flush",
+                    "position": "seated;urinal"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.351956,
+                    -37.751632
+                ]
+            },
+            "properties": {
+                "type": "water",
+                "osm": {
+                    "node": 3830479441
+                },
+                "name": "Water - Lilydale",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.379244,
+                    -37.785323
+                ]
+            },
+            "properties": {
+                "type": "water",
+                "osm": {
+                    "node": 3820467500
+                },
+                "name": "Water - Mount Evelyn",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.426041,
+                    -37.777503
+                ]
+            },
+            "properties": {
+                "type": "water",
+                "osm": {
+                    "node": 4730155678
+                },
+                "name": "Water - Wandin North",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.527288,
+                    -37.775186
+                ]
+            },
+            "properties": {
+                "type": "water",
+                "osm": {
+                    "node": 3820478324
+                },
+                "name": "Water - Drink bottle refilling station",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.586579,
+                    -37.776089
+                ]
+            },
+            "properties": {
+                "type": "water",
+                "osm": {
+                    "node": 3820480694
+                },
+                "name": "Water - Launching Place",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.64066,
+                    -37.76418
+                ]
+            },
+            "properties": {
+                "type": "water",
+                "osm": {},
+                "name": "Water - Wesburn",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.688452,
+                    -37.754663
+                ]
+            },
+            "properties": {
+                "type": "water",
+                "osm": {
+                    "node": 3820511186
+                },
+                "name": "Water - Warburton",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.347548,
+                    -37.75567
+                ]
+            },
+            "properties": {
+                "type": "transport",
+                "osm": {
+                    "node": 1763901262
+                },
+                "name": "Transport - Lilydale",
+                "photo": null,
+                "tags": {
+                    "network": "PTV - Metropolitan Trains",
+                    "operator": "Metro Trains Melbourne",
+                    "type": "train"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.365291,
+                    -37.763421
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 49830522
+                },
+                "name": "Parking - Lilydale-Warburton Rail Trail Parking",
+                "photo": null,
+                "tags": {
+                    "size": "small",
+                    "surface": "gravel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.378966,
+                    -37.785503
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 218056713
+                },
+                "name": "Parking - Mount Evelyn",
+                "photo": null,
+                "tags": {
+                    "size": "small"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.426391,
+                    -37.777283
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 239529961
+                },
+                "name": "Parking - Wandin North",
+                "photo": null,
+                "tags": {
+                    "size": "small"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.527674,
+                    -37.775425
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 239526239
+                },
+                "name": "Parking - Woori Yallock",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/infrastructure/IMG_5139.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/infrastructure/IMG_5139.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                },
+                "tags": {
+                    "size": "small"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.612576,
+                    -37.781258
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 612125337
+                },
+                "name": "Parking - Yarra Junction Reserve",
+                "photo": null,
+                "tags": {
+                    "size": "small",
+                    "surface": "asphalt"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.6539,
+                    -37.754699
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "node": 835059504
+                },
+                "name": "Parking - Sawmill",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.688704,
+                    -37.754387
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 219201160
+                },
+                "name": "Parking - Warburton",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/infrastructure/IMG_5187.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/infrastructure/IMG_5187.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                },
+                "tags": {
+                    "size": "small",
+                    "surface": "asphalt",
+                    "time_limit": true,
+                    "fee": false
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.695646,
+                    -37.75269
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 236970551
+                },
+                "name": "Parking - Warburton Reserve",
+                "photo": null,
+                "tags": {
+                    "size": "small"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.379185,
+                    -37.785221
+                ]
+            },
+            "properties": {
+                "type": "shelter",
+                "osm": {
+                    "node": 3820467501
+                },
+                "name": "Shelter - Mount Evelyn",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.527207,
+                    -37.77516
+                ]
+            },
+            "properties": {
+                "type": "shelter",
+                "osm": {
+                    "way": 556111181
+                },
+                "name": "Shelter - Woori Yallock",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/infrastructure/IMG_5197.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/infrastructure/IMG_5197.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                },
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.64066,
+                    -37.76418
+                ]
+            },
+            "properties": {
+                "type": "shelter",
+                "osm": {},
+                "name": "Shelter - Wesburn",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/infrastructure/IMG_5171.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/infrastructure/IMG_5171.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                },
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.688437,
+                    -37.754727
+                ]
+            },
+            "properties": {
+                "type": "shelter",
+                "osm": {
+                    "way": 221339585
+                },
+                "name": "Shelter - Warburton",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/infrastructure/IMG_5181.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/infrastructure/IMG_5181.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                },
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.557128,
+                    -37.77085
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5191.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5191.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.57605,
+                    -37.775181
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5149.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5149.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.578614,
+                    -37.775047
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5150.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5150.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.609344,
+                    -37.780806
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5154.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5154.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.643892,
+                    -37.761722
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5174.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5174.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.651781,
+                    -37.756294
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5189.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5189.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.666275,
+                    -37.754844
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5177.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5177.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.671097,
+                    -37.754672
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5178.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5178.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.688294,
+                    -37.754744
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5184.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/victoria/warburton_rail_trail/IMG_5184.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.350056,
+                    -37.753793
+                ]
+            },
+            "properties": {
+                "type": "route",
+                "name": "Warburton Rail Trail"
+            }
         }
     ]
 }

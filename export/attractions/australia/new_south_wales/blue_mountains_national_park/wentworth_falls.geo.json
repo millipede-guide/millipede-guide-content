@@ -1,4 +1,19 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.374167,
+                    -33.728056
+                ]
+            },
+            "properties": {
+                "type": "attraction",
+                "name": "Wentworth Falls"
+            }
+        }
+    ]
 }

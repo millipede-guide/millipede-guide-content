@@ -1601,6 +1601,411 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.3692618,
+                    -33.7249744
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 244314452
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.3629289,
+                    -33.7199796
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 250302984
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.36863,
+                    -33.72513
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "node": 243838453
+                },
+                "name": "Parking",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.36333,
+                    -33.72
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 692401163
+                },
+                "name": "Parking",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.312582,
+                    -33.732079
+                ]
+            },
+            "properties": {
+                "type": "information",
+                "osm": {
+                    "way": 169174221
+                },
+                "name": "Information - Katoomba Tourist Information Centre",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.360275,
+                    -33.722772
+                ]
+            },
+            "properties": {
+                "type": "waterfall",
+                "osm": {
+                    "node": 247038569
+                },
+                "name": "Waterfall - Brittania Falls",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.360339,
+                    -33.723056
+                ]
+            },
+            "properties": {
+                "type": "waterfall",
+                "osm": {
+                    "node": 247038576
+                },
+                "name": "Waterfall - Red Rock Falls",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.374259,
+                    -33.72802
+                ]
+            },
+            "properties": {
+                "type": "waterfall",
+                "osm": {
+                    "node": 247038705
+                },
+                "name": "Waterfall - Upper Wentworth Falls",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.373078,
+                    -33.727933
+                ]
+            },
+            "properties": {
+                "type": "waterfall",
+                "osm": {
+                    "node": 247038708
+                },
+                "name": "Waterfall - Lower Wentworth Falls",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.371567,
+                    -33.727547
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4565.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4565.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.370986,
+                    -33.727753
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4566.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4566.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.370789,
+                    -33.727836
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4567.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4567.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.370544,
+                    -33.727814
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4568.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4568.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.370544,
+                    -33.727756
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4569.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4569.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.370317,
+                    -33.727878
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4570.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4570.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.370469,
+                    -33.7281
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4571.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4571.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.372467,
+                    -33.728272
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4573.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4573.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.362397,
+                    -33.725806
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4576.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4576.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.359481,
+                    -33.722131
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4600.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4600.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.360122,
+                    -33.721606
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4601.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_pass/IMG_4601.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.369221,
+                    -33.725593
+                ]
+            },
+            "properties": {
+                "type": "route",
+                "name": "Wentworth Pass"
+            }
         }
     ]
 }

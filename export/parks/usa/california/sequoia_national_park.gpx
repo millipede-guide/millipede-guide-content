@@ -1,1 +1,3 @@
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="togpx"><metadata/></gpx>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="togpx"><metadata/><wpt lat="36.572783" lon="-118.74945"><name>Photo</name><desc>type=photo
+name=Photo</desc></wpt><wpt lat="36.43" lon="-118.68"><name>Sequoia National Park</name><desc>type=park
+name=Sequoia National Park</desc></wpt></gpx>

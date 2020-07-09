@@ -19918,6 +19918,42 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.32174,
+                    -39.03069
+                ]
+            },
+            "properties": {
+                "type": "information",
+                "osm": {
+                    "way": 257722206
+                },
+                "name": "Information",
+                "photo": null,
+                "tags": {
+                    "visitor_centre": true,
+                    "park_office": true
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.393889,
+                    -39.013333
+                ]
+            },
+            "properties": {
+                "type": "park",
+                "name": "Wilsons Promontory National Park"
+            }
         }
     ],
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."

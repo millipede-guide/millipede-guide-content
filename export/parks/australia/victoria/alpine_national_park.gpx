@@ -1,4 +1,6 @@
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="togpx"><metadata/><trk><name>Alpine National Park</name><desc>boundary=protected_area
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="togpx"><metadata/><wpt lat="-36.900561" lon="147.127106"><name>Photo</name><desc>type=photo
+name=Photo</desc></wpt><wpt lat="-37.3375" lon="146.756944"><name>Alpine National Park</name><desc>type=park
+name=Alpine National Park</desc></wpt><trk><name>Alpine National Park</name><desc>boundary=protected_area
 iucn_level=II
 leisure=nature_reserve
 name=Alpine National Park

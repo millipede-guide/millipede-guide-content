@@ -1,4 +1,208 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.61907,
+                    -33.80045
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {},
+                "name": "Toilets",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4451.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4451.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                },
+                "tags": {
+                    "disposal": "pit",
+                    "wheelchair": "yes"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.61875,
+                    -33.8002
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 48990761
+                },
+                "name": "Parking - Bennett Ridge Trail",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4447.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4447.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                },
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.618714,
+                    -33.800186
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4448.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4448.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.618697,
+                    -33.80045
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4449.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4449.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.618744,
+                    -33.800444
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4450.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4450.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.618714,
+                    -33.800383
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4452.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4452.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.618514,
+                    -33.800419
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4453.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4453.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.6185,
+                    -33.800419
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4454.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4454.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.618483,
+                    -33.800331
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4455.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/campsites/australia/nsw/blue_mountains_national_park/euroka_bennetts_ridge/IMG_4455.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.618716,
+                    -33.800874
+                ]
+            },
+            "properties": {
+                "type": "campsite",
+                "name": "Bennetts Ridge - Euroka"
+            }
+        }
+    ]
 }

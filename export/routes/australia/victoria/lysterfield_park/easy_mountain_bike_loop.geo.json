@@ -6391,6 +6391,178 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.283476,
+                    -37.954349
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 678444685
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.301322,
+                    -37.966389
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 812733168
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.30102,
+                    -37.969721
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 1901714591
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.301535,
+                    -37.96646
+                ]
+            },
+            "properties": {
+                "type": "water",
+                "osm": {
+                    "node": 3487892637
+                },
+                "name": "Water",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.301691,
+                    -37.96512
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 37722945
+                },
+                "name": "Parking",
+                "photo": null,
+                "tags": {
+                    "size": "small"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.302539,
+                    -37.965732
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 37722953
+                },
+                "name": "Parking - Spotted Gum Car Park",
+                "photo": null,
+                "tags": {
+                    "size": "small"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.302338,
+                    -37.966857
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 48389292
+                },
+                "name": "Parking",
+                "photo": null,
+                "tags": {
+                    "size": "medium"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.298783,
+                    -37.971704
+                ]
+            },
+            "properties": {
+                "type": "shelter",
+                "osm": {
+                    "node": 1901723781
+                },
+                "name": "Shelter",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.303152,
+                    -37.965846
+                ]
+            },
+            "properties": {
+                "type": "route",
+                "name": "Easy Mountain Bike Loop"
+            }
         }
     ]
 }

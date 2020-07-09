@@ -1296,6 +1296,415 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.950983,
+                    37.275234
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 4511587940
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.950713,
+                    37.258746
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 4962674821
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": {
+                    "fee": "no",
+                    "position": "seated"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.950611,
+                    37.258771
+                ]
+            },
+            "properties": {
+                "type": "water",
+                "osm": {
+                    "node": 4962673020
+                },
+                "name": "Water",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.95084,
+                    37.25908
+                ]
+            },
+            "properties": {
+                "type": "transport",
+                "osm": {
+                    "node": 465620861
+                },
+                "name": "Transport - The Grotto",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.987004,
+                    37.20013
+                ]
+            },
+            "properties": {
+                "type": "information",
+                "osm": {
+                    "way": 159431521
+                },
+                "name": "Information - Zion Canyon Visitor Center",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.947857,
+                    37.26936
+                ]
+            },
+            "properties": {
+                "type": "viewpoint",
+                "osm": {
+                    "node": 137813700
+                },
+                "name": "Viewpoint",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.950447,
+                    37.274995
+                ]
+            },
+            "properties": {
+                "type": "viewpoint",
+                "osm": {
+                    "node": 4511586945
+                },
+                "name": "Viewpoint - Scout Lookout",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.94799,
+                    37.269315
+                ]
+            },
+            "properties": {
+                "type": "moutain_peak",
+                "osm": {
+                    "node": 356671932
+                },
+                "name": "Moutain peak - Angels Landing",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.950692,
+                    37.261364
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9698.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9698.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.948983,
+                    37.270061
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9718.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9718.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.948128,
+                    37.269567
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9735.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9735.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.947822,
+                    37.269306
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9760.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9760.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.94825,
+                    37.269683
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9769.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9769.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.949561,
+                    37.270564
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9785.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9785.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.949936,
+                    37.271622
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9788.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9788.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.95015,
+                    37.27225
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9790.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9790.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.950286,
+                    37.272433
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9792.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9792.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.950119,
+                    37.272908
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9797.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9797.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.951728,
+                    37.269178
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9808.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9808.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.950325,
+                    37.264725
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9811.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9811.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.951122,
+                    37.259024
+                ]
+            },
+            "properties": {
+                "type": "route",
+                "name": "Angels Landing"
+            }
         }
     ]
 }

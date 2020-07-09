@@ -1,4 +1,39 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.950692,
+                    37.261364
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9698.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9698.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.05,
+                    37.3
+                ]
+            },
+            "properties": {
+                "type": "park",
+                "name": "Zion National Park"
+            }
+        }
+    ]
 }

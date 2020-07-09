@@ -521,6 +521,178 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.3692618,
+                    -33.7249744
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 244314452
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.36863,
+                    -33.72513
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "node": 243838453
+                },
+                "name": "Parking",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.368622,
+                    -33.726692
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/undercliff_track/IMG_4501.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/undercliff_track/IMG_4501.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.371703,
+                    -33.726875
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/undercliff_track/IMG_2421.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/undercliff_track/IMG_2421.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.367997,
+                    -33.726608
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/undercliff_track/IMG_4495.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/undercliff_track/IMG_4495.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.368575,
+                    -33.726683
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/undercliff_track/IMG_4500.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/undercliff_track/IMG_4500.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.373581,
+                    -33.726908
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/undercliff_track/IMG_4528.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/undercliff_track/IMG_4528.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.368714,
+                    -33.726672
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/undercliff_track/IMG_6464.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/undercliff_track/IMG_6464.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.36645,
+                    -33.72555
+                ]
+            },
+            "properties": {
+                "type": "route",
+                "name": "Undercliff Track"
+            }
         }
     ]
 }

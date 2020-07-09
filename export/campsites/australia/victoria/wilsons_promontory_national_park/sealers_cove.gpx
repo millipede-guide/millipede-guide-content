@@ -1,1 +1,7 @@
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="togpx"><metadata/></gpx>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="togpx"><metadata/><wpt lat="-39.022872" lon="146.443322"><name>Toilets</name><desc>disposal=pit</desc></wpt><wpt lat="-39.020852" lon="146.4356785"><name>Toilets</name><desc>disposal=pit</desc></wpt><wpt lat="-39.022393" lon="146.443883"><name>Water</name><desc>type=tap
+source=river
+potable=true
+treated=false</desc></wpt><wpt lat="-39.032695" lon="146.35539"><name>Parking - Telegraph Saddle</name><desc>time_limit=false
+fee=false</desc></wpt><wpt lat="-39.030996" lon="146.326805"><name>Parking - Overnight Hikers Carpark, Tidal River (with shuttle bus to Telegraph Saddle)</name><desc>time_limit=false
+fee=false</desc></wpt><wpt lat="-39.022545" lon="146.443613"><name>Sealers Cove</name><desc>type=campsite
+name=Sealers Cove</desc></wpt></gpx>

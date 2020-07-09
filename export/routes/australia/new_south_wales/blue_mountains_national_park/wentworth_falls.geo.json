@@ -601,6 +601,198 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.3692618,
+                    -33.7249744
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 244314452
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.36863,
+                    -33.72513
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "node": 243838453
+                },
+                "name": "Parking",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.374192,
+                    -33.727586
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_falls/IMG_4534.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_falls/IMG_4534.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.374267,
+                    -33.727586
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_falls/IMG_4541.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_falls/IMG_4541.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.373825,
+                    -33.728417
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_falls/IMG_4546.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_falls/IMG_4546.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.373733,
+                    -33.72845
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_falls/IMG_4547.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_falls/IMG_4547.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.373733,
+                    -33.728417
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_falls/IMG_4549.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_falls/IMG_4549.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.373611,
+                    -33.728317
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_falls/IMG_4553.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_falls/IMG_4553.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.373458,
+                    -33.727864
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_falls/IMG_4562.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/wentworth_falls/IMG_4562.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.36889,
+                    -33.72556
+                ]
+            },
+            "properties": {
+                "type": "route",
+                "name": "Wentworth Falls Track"
+            }
         }
     ]
 }

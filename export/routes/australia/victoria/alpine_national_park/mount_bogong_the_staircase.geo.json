@@ -3461,6 +3461,286 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.252484,
+                    -36.700192
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 603435288
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.294944,
+                    -36.713603
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 958086079
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": {
+                    "access": "public",
+                    "disposal": "pitlatrine",
+                    "unisex": "yes"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.252221,
+                    -36.699965
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 47345137
+                },
+                "name": "Parking",
+                "photo": null,
+                "tags": {
+                    "size": "small",
+                    "surface": "unpaved"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.252425,
+                    -36.699955
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 47345138
+                },
+                "name": "Parking",
+                "photo": null,
+                "tags": {
+                    "size": "small",
+                    "surface": "unpaved"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.25281,
+                    -36.699921
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 47345139
+                },
+                "name": "Parking",
+                "photo": null,
+                "tags": {
+                    "size": "small",
+                    "surface": "unpaved"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.295086,
+                    -36.71374
+                ]
+            },
+            "properties": {
+                "type": "shelter",
+                "osm": {
+                    "way": 44709242
+                },
+                "name": "Shelter - Bivouac Hut",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.305826,
+                    -36.732374
+                ]
+            },
+            "properties": {
+                "type": "moutain_peak",
+                "osm": {
+                    "node": 603443998
+                },
+                "name": "Moutain peak - Mount Bogong",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.293183,
+                    -36.712436
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_bogong/IMG_6177.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_bogong/IMG_6177.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.297456,
+                    -36.716239
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_bogong/IMG_6179.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_bogong/IMG_6179.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.300003,
+                    -36.719136
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_bogong/IMG_6187.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_bogong/IMG_6187.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.304458,
+                    -36.724336
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_bogong/IMG_6189.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_bogong/IMG_6189.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.295289,
+                    -36.734889
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_bogong/IMG_6198.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_bogong/IMG_6198.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.292817,
+                    -36.736578
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_bogong/IMG_6215.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_bogong/IMG_6215.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.252466,
+                    -36.699996
+                ]
+            },
+            "properties": {
+                "type": "route",
+                "name": "The Staircase to Mount Bogong"
+            }
         }
     ]
 }

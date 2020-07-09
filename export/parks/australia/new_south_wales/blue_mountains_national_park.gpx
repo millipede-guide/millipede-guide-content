@@ -1,7 +1,9 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="togpx"><metadata/><wpt lat="-33.6152" lon="150.4179"><name>Blue Mountains National Park</name><desc>gaz2012:ref=NSW82866
 name=Blue Mountains National Park
 place=locality
-source=Gazetteer of Australia 2012</desc></wpt><trk><name>Blue Mountains National Park</name><desc>admin_level=10
+source=Gazetteer of Australia 2012</desc></wpt><wpt lat="-33.732097" lon="150.312025"><name>Photo</name><desc>type=photo
+name=Photo</desc></wpt><wpt lat="-33.967778" lon="150.304167"><name>Blue Mountains National Park</name><desc>type=park
+name=Blue Mountains National Park</desc></wpt><trk><name>Blue Mountains National Park</name><desc>admin_level=10
 boundary=administrative
 name=Blue Mountains National Park
 note=Blue Mountains NP "Suburb" doesn't exacly match the NPWS boundaries

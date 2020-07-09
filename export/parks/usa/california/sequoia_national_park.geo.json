@@ -1,4 +1,39 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.74945,
+                    36.572783
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9124.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9124.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.68,
+                    36.43
+                ]
+            },
+            "properties": {
+                "type": "park",
+                "name": "Sequoia National Park"
+            }
+        }
+    ]
 }

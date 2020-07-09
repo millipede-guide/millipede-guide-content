@@ -2356,6 +2356,341 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.122732,
+                    -36.901702
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 4032179927
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.122532,
+                    -36.901491
+                ]
+            },
+            "properties": {
+                "type": "water",
+                "osm": {
+                    "node": 2614544740
+                },
+                "name": "Water - untreated water",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.073135,
+                    -36.891922
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 255766815
+                },
+                "name": "Parking",
+                "photo": null,
+                "tags": {
+                    "size": "small",
+                    "surface": "unpaved"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.12257,
+                    -36.90149
+                ]
+            },
+            "properties": {
+                "type": "shelter",
+                "osm": {
+                    "way": 255766135
+                },
+                "name": "Shelter - Federation Hut",
+                "photo": {
+                    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Federation-hut-mount-feathertop.jpg/1280px-Federation-hut-mount-feathertop.jpg",
+                    "href": "https://commons.wikimedia.org/wiki/File:Federation-hut-mount-feathertop.jpg",
+                    "attr": "Jimmy Harris",
+                    "license": "CC BY-SA"
+                },
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.138134,
+                    -36.894163
+                ]
+            },
+            "properties": {
+                "type": "moutain_peak",
+                "osm": {
+                    "node": 251154646
+                },
+                "name": "Moutain peak - Mount Feathertop",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.091581,
+                    -36.886251
+                ]
+            },
+            "properties": {
+                "type": "viewpoint",
+                "osm": {
+                    "node": 610533731
+                },
+                "name": "Viewpoint - Tobias Gap",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.081539,
+                    -36.891963
+                ]
+            },
+            "properties": {
+                "type": "viewpoint",
+                "osm": {
+                    "node": 2614540991
+                },
+                "name": "Viewpoint - Picture Point",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.100753,
+                    -36.893192
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_2580.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_2580.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.101792,
+                    -36.893167
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_2582.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_2582.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.102875,
+                    -36.893525
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_2583.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_2583.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.11905,
+                    -36.899728
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_6401.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_6401.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.120619,
+                    -36.900639
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_6402.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_6402.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.127106,
+                    -36.900561
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_6403.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_6403.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.129381,
+                    -36.899372
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_6406.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_6406.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.130342,
+                    -36.899131
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_6412.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_6412.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.13765,
+                    -36.894256
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_6420.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/vic/alpine_national_park/mt_feathertop_bungalow_spur/IMG_6420.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.073331,
+                    -36.891883
+                ]
+            },
+            "properties": {
+                "type": "route",
+                "name": "Bungalow Spur to Mount Feathertop"
+            }
         }
     ]
 }

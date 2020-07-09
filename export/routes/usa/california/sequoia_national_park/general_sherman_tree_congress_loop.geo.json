@@ -1633,6 +1633,488 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.749595,
+                    36.584695
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "way": 179758703
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": {
+                    "access": "yes",
+                    "fee": "no"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.751745,
+                    36.580648
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 3700503882
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.749668,
+                    36.584716
+                ]
+            },
+            "properties": {
+                "type": "water",
+                "osm": {
+                    "node": 1902050463
+                },
+                "name": "Water",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.751832,
+                    36.580533
+                ]
+            },
+            "properties": {
+                "type": "water",
+                "osm": {
+                    "node": 3700503883
+                },
+                "name": "Water",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.751946,
+                    36.580549
+                ]
+            },
+            "properties": {
+                "type": "transport",
+                "osm": {
+                    "node": 2377697340
+                },
+                "name": "Transport - Sequoia Shuttle",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.749759,
+                    36.584842
+                ]
+            },
+            "properties": {
+                "type": "transport",
+                "osm": {
+                    "node": 3700503884
+                },
+                "name": "Transport - Sequoia Shuttle",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.74978,
+                    36.585011
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 163159383
+                },
+                "name": "Parking",
+                "photo": null,
+                "tags": {
+                    "size": "small"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.748353,
+                    36.5859
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 163159384
+                },
+                "name": "Parking - RV Parking",
+                "photo": null,
+                "tags": {
+                    "size": "small"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.751851,
+                    36.580441
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 163224217
+                },
+                "name": "Parking - General Sherman Tree Disabled Parking",
+                "photo": null,
+                "tags": {
+                    "size": "small"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.732029,
+                    36.604184
+                ]
+            },
+            "properties": {
+                "type": "information",
+                "osm": {
+                    "way": 181002967
+                },
+                "name": "Information - Lodgepole Visitor Center",
+                "photo": {
+                    "src": "https://live.staticflickr.com/6146/6014005236_1c6b530587_o_d.jpg",
+                    "href": "https://www.flickr.com/photos/kycheng/6014005236",
+                    "attr": "kycheng",
+                    "license": "CC BY-NC-SA 2.0"
+                },
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.772761,
+                    36.564663
+                ]
+            },
+            "properties": {
+                "type": "information",
+                "osm": {
+                    "way": 229138120
+                },
+                "name": "Information - Giant Forest Museum",
+                "photo": {
+                    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Giant_Forest_Muzeum_-_Sequoia_N.P._-_panoramio.jpg/1280px-Giant_Forest_Muzeum_-_Sequoia_N.P._-_panoramio.jpg",
+                    "href": "https://commons.wikimedia.org/wiki/File:Giant_Forest_Muzeum_-_Sequoia_N.P._-_panoramio.jpg",
+                    "attr": "Pavel Špindler",
+                    "license": "CC BY 3.0"
+                },
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.751489,
+                    36.580722
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/general_sherman_tree/IMG_9151.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/general_sherman_tree/IMG_9151.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.751983,
+                    36.577111
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9073.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9073.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.752625,
+                    36.575394
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9074.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9074.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.750586,
+                    36.574708
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9103.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9103.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.750136,
+                    36.573417
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9110.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9110.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.749969,
+                    36.573617
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9112.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9112.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.749497,
+                    36.572758
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9121.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9121.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.74945,
+                    36.572783
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9124.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9124.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.750008,
+                    36.572833
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9131.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9131.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.752122,
+                    36.572972
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9136.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9136.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.753808,
+                    36.573472
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9137.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9137.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.751564,
+                    36.572475
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9387.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/sequoia_national_park/congress_trail/IMG_9387.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.749511,
+                    36.572737
+                ]
+            },
+            "properties": {
+                "type": "route",
+                "name": "General Sherman Tree and Congress Trail Loop"
+            }
         }
     ]
 }

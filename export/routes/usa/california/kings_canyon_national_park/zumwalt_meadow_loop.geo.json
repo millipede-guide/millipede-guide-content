@@ -981,6 +981,202 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.598142,
+                    36.793788
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "way": 707542067
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": {
+                    "fee": "no",
+                    "disposal": "pitlatrine"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.598338,
+                    36.793705
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 302764635
+                },
+                "name": "Parking",
+                "photo": null,
+                "tags": {
+                    "size": "small"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.582749,
+                    36.794734
+                ]
+            },
+            "properties": {
+                "type": "information",
+                "osm": {
+                    "way": 279697028
+                },
+                "name": "Information - Roads End Permit Station",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.598656,
+                    36.793114
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/kings_canyon_national_park/zumwalt_meadow/IMG_9256.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/kings_canyon_national_park/zumwalt_meadow/IMG_9256.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.600356,
+                    36.791019
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/kings_canyon_national_park/zumwalt_meadow/IMG_9262.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/kings_canyon_national_park/zumwalt_meadow/IMG_9262.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.596956,
+                    36.790367
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/kings_canyon_national_park/zumwalt_meadow/IMG_9263.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/kings_canyon_national_park/zumwalt_meadow/IMG_9263.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.595847,
+                    36.790864
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/kings_canyon_national_park/zumwalt_meadow/IMG_9273.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/kings_canyon_national_park/zumwalt_meadow/IMG_9273.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.600389,
+                    36.791031
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/kings_canyon_national_park/zumwalt_meadow/IMG_9281.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/kings_canyon_national_park/zumwalt_meadow/IMG_9281.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.600389,
+                    36.791103
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/kings_canyon_national_park/zumwalt_meadow/IMG_9282.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ca/kings_canyon_national_park/zumwalt_meadow/IMG_9282.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.598429641929,
+                    36.79369530311438
+                ]
+            },
+            "properties": {
+                "type": "route",
+                "name": "Zumwalt Meadow Loop"
+            }
         }
     ]
 }

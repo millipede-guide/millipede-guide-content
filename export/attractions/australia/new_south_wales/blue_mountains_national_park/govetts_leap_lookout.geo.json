@@ -1,4 +1,117 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.3110319,
+                    -33.6280155
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 2484527967
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.31124,
+                    -33.62817
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 355963424
+                },
+                "name": "Parking - Govetts Leap",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.311311,
+                    -33.628053
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/attractions/australia/nsw/blue_mountains_national_park/govetts_leap_lookout/IMG_4827.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/attractions/australia/nsw/blue_mountains_national_park/govetts_leap_lookout/IMG_4827.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.311172,
+                    -33.628672
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/attractions/australia/nsw/blue_mountains_national_park/govetts_leap_lookout/IMG_2586.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/attractions/australia/nsw/blue_mountains_national_park/govetts_leap_lookout/IMG_2586.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.311767,
+                    -33.627411
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/attractions/australia/nsw/blue_mountains_national_park/govetts_leap_lookout/IMG_4838.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/attractions/australia/nsw/blue_mountains_national_park/govetts_leap_lookout/IMG_4838.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.31149,
+                    -33.62797
+                ]
+            },
+            "properties": {
+                "type": "attraction",
+                "name": "Govetts Leap lookout"
+            }
+        }
+    ]
 }

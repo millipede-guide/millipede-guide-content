@@ -1636,6 +1636,390 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.324587,
+                    -33.646623
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 2619197951
+                },
+                "name": "Toilets - Evans Lookout",
+                "photo": null,
+                "tags": {
+                    "drinking_water": "no"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.32069,
+                    -33.6489
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {},
+                "name": "Toilets - Bus and RV Parking",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.325148,
+                    -33.646582
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 355963421
+                },
+                "name": "Parking - Evans lookout parking",
+                "photo": null,
+                "tags": {
+                    "surface": "asphalt",
+                    "size": "small"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.319797,
+                    -33.649135
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {},
+                "name": "Parking - Bus and RV",
+                "photo": null,
+                "tags": {
+                    "surface": "asphalt"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.314593,
+                    -33.651458
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "node": 2459173321
+                },
+                "name": "Parking - Neates Glen Carpark",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.312582,
+                    -33.732079
+                ]
+            },
+            "properties": {
+                "type": "information",
+                "osm": {
+                    "way": 169174221
+                },
+                "name": "Information - Katoomba Tourist Information Centre",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.306645,
+                    -33.630613
+                ]
+            },
+            "properties": {
+                "type": "information",
+                "osm": {
+                    "way": 355963432
+                },
+                "name": "Information - Blue Mountains Heritage Centre",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.326187,
+                    -33.646952
+                ]
+            },
+            "properties": {
+                "type": "shelter",
+                "osm": {
+                    "node": 2763957231
+                },
+                "name": "Shelter",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.326314,
+                    -33.646814
+                ]
+            },
+            "properties": {
+                "type": "viewpoint",
+                "osm": {
+                    "node": 263853747
+                },
+                "name": "Viewpoint - Evans Lookout (Upper)",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.326516,
+                    -33.647077
+                ]
+            },
+            "properties": {
+                "type": "viewpoint",
+                "osm": {
+                    "node": 410054390
+                },
+                "name": "Viewpoint - Evans Lookout (Lower)",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.324088,
+                    -33.657573
+                ]
+            },
+            "properties": {
+                "type": "viewpoint",
+                "osm": {
+                    "node": 1053650554
+                },
+                "name": "Viewpoint",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.325822,
+                    -33.655733
+                ]
+            },
+            "properties": {
+                "type": "water_crossing",
+                "osm": {
+                    "node": 2459173325
+                },
+                "name": "Water crossing",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.315238,
+                    -33.658698
+                ]
+            },
+            "properties": {
+                "type": "waterfall",
+                "osm": {
+                    "node": 3614676914
+                },
+                "name": "Waterfall",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.313369,
+                    -33.653253
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/grand_canyon_loop/IMG_4709.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/grand_canyon_loop/IMG_4709.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.313522,
+                    -33.653494
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/grand_canyon_loop/IMG_4715.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/grand_canyon_loop/IMG_4715.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.324647,
+                    -33.656536
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/grand_canyon_loop/IMG_4789.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/grand_canyon_loop/IMG_4789.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.326492,
+                    -33.651139
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/grand_canyon_loop/IMG_4814.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/grand_canyon_loop/IMG_4814.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.325897,
+                    -33.647561
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/grand_canyon_loop/IMG_4817.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/grand_canyon_loop/IMG_4817.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.324356,
+                    -33.657033
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/grand_canyon_loop/IMG_8446.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/australia/nsw/blue_mountains_national_park/grand_canyon_loop/IMG_8446.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.319752,
+                    -33.649444
+                ]
+            },
+            "properties": {
+                "type": "route",
+                "name": "Grand Canyon loop"
+            }
         }
     ]
 }

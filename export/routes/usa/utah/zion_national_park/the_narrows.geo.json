@@ -1341,6 +1341,140 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.947097,
+                    37.297742
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/the_narrows/IMG_9559.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/the_narrows/IMG_9559.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.947556,
+                    37.299625
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/the_narrows/IMG_9625.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/the_narrows/IMG_9625.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.947569,
+                    37.301217
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/the_narrows/IMG_9634.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/the_narrows/IMG_9634.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.946594,
+                    37.302197
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/the_narrows/IMG_9643.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/the_narrows/IMG_9643.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.946456,
+                    37.302731
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/the_narrows/IMG_9645.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/the_narrows/IMG_9645.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.947831,
+                    37.303708
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/the_narrows/IMG_9655.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/the_narrows/IMG_9655.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.947648,
+                    37.285208
+                ]
+            },
+            "properties": {
+                "type": "route",
+                "name": "The Narrows"
+            }
         }
     ]
 }

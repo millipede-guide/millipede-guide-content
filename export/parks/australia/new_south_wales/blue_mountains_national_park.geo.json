@@ -55606,6 +55606,40 @@
                     -33.6152
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.312025,
+                    -33.732097
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Blue_Mountains_Range_%2842467940411%29.jpg",
+                    "href": "https://commons.wikimedia.org/wiki/File:Blue_Mountains_Range_(42467940411).jpg",
+                    "attr": "Nasir Khan Saikat",
+                    "license": "CC BY-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.304167,
+                    -33.967778
+                ]
+            },
+            "properties": {
+                "type": "park",
+                "name": "Blue Mountains National Park"
+            }
         }
     ],
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."

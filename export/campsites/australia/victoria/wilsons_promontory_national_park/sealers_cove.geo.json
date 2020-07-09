@@ -1,4 +1,125 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.443322,
+                    -39.022872
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 312991693
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": {
+                    "disposal": "pit"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.4356785,
+                    -39.020852
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 262793502
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": {
+                    "disposal": "pit"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.443883,
+                    -39.022393
+                ]
+            },
+            "properties": {
+                "type": "water",
+                "osm": {
+                    "node": 2857264122
+                },
+                "name": "Water",
+                "photo": null,
+                "tags": {
+                    "type": "tap",
+                    "source": "river",
+                    "potable": true,
+                    "treated": false
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.35539,
+                    -39.032695
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {},
+                "name": "Parking - Telegraph Saddle",
+                "photo": null,
+                "tags": {
+                    "time_limit": false,
+                    "fee": false
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.326805,
+                    -39.030996
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {},
+                "name": "Parking - Overnight Hikers Carpark, Tidal River (with shuttle bus to Telegraph Saddle)",
+                "photo": null,
+                "tags": {
+                    "time_limit": false,
+                    "fee": false
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.443613,
+                    -39.022545
+                ]
+            },
+            "properties": {
+                "type": "campsite",
+                "name": "Sealers Cove"
+            }
+        }
+    ]
 }

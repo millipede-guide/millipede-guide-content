@@ -1,4 +1,79 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.324587,
+                    -33.646623
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 2619197951
+                },
+                "name": "Toilets - Evans Lookout",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.325067,
+                    -33.646618
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 355963421
+                },
+                "name": "Parking - Evans Lookout",
+                "photo": null,
+                "tags": {
+                    "surface": "asphalt"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.326308,
+                    -33.646842
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/attractions/australia/nsw/blue_mountains_national_park/evans_lookout/IMG_4821.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/attractions/australia/nsw/blue_mountains_national_park/evans_lookout/IMG_4821.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.3263141,
+                    -33.6468138
+                ]
+            },
+            "properties": {
+                "type": "attraction",
+                "name": "Evans Lookout"
+            }
+        }
+    ]
 }

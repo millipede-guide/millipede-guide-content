@@ -1,4 +1,6 @@
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="togpx"><metadata/><trk><name>Wilsons Promontory National Park</name><desc>boundary=protected_area
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="togpx"><metadata/><wpt lat="-39.03069" lon="146.32174"><name>Information</name><desc>visitor_centre=true
+park_office=true</desc></wpt><wpt lat="-39.013333" lon="146.393889"><name>Wilsons Promontory National Park</name><desc>type=park
+name=Wilsons Promontory National Park</desc></wpt><trk><name>Wilsons Promontory National Park</name><desc>boundary=protected_area
 iucn_level=II
 leisure=nature_reserve
 name=Wilsons Promontory National Park

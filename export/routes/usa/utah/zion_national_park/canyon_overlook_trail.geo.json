@@ -226,6 +226,219 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.94031,
+                    37.213186
+                ]
+            },
+            "properties": {
+                "type": "toilet",
+                "osm": {
+                    "node": 3109750338
+                },
+                "name": "Toilets",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.940485,
+                    37.21331
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 388764246
+                },
+                "name": "Parking - Zion Canyon Overlook",
+                "photo": null,
+                "tags": {
+                    "size": "small"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.939638,
+                    37.214695
+                ]
+            },
+            "properties": {
+                "type": "parking",
+                "osm": {
+                    "way": 388764251
+                },
+                "name": "Parking",
+                "photo": null,
+                "tags": {
+                    "size": "small"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.987004,
+                    37.20013
+                ]
+            },
+            "properties": {
+                "type": "information",
+                "osm": {
+                    "way": 159431521
+                },
+                "name": "Information - Zion Canyon Visitor Center",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.94599,
+                    37.213238
+                ]
+            },
+            "properties": {
+                "type": "viewpoint",
+                "osm": {
+                    "node": 1579907364
+                },
+                "name": "Viewpoint - Pine Creek Canyon",
+                "photo": null,
+                "tags": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.946097,
+                    37.213494
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9857.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9857.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.940781,
+                    37.213397
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9833.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9833.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.944358,
+                    37.212669
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9836.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9836.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.944581,
+                    37.213069
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9841.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9841.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.946083,
+                    37.213428
+                ]
+            },
+            "properties": {
+                "type": "photo",
+                "name": "Photo",
+                "photo": {
+                    "src": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9851.jpg",
+                    "href": "https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9851.jpg",
+                    "attr": "Reilly Beacom",
+                    "license": "CC BY-NC-SA 4.0"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.940694,
+                    37.213368
+                ]
+            },
+            "properties": {
+                "type": "route",
+                "name": "Canyon Overlook Trail"
+            }
         }
     ]
 }
