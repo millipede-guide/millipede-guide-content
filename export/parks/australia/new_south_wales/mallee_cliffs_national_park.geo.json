@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.576944,
+                    -34.175278
+                ]
+            },
+            "properties": {
+                "type": "park",
+                "name": "Mallee Cliffs National Park"
+            }
+        }
+    ]
+}

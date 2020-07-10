@@ -1,10 +1,11 @@
-draft: t
 name: Towarri National Park
 country: Australia
 region: New South Wales
 location:
-  - -31.845833
-  - 150.073611
+  - -31.847595
+  - 150.759802
+osm:
+  relation: 6026832
 features:
   national_park: true
 links:

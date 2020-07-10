@@ -1,14 +1,21 @@
-draft: t
 name: Heathcote National Park
 country: Australia
 region: New South Wales
 location:
-  - -34.130278
-  - 150.971111
+  - -34.12725
+  - 150.973381
+osm:
+  relation: 1282169
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Heathcote_National_Park_1.jpg/1200px-Heathcote_National_Park_1.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Heathcote_National_Park_1.jpg/1200px-Heathcote_National_Park_1.jpg'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Heathcote_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/~/media/Visitor/Files/PDF/Maps/heathcote-pdf-map.ashx'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

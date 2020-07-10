@@ -1,14 +1,16 @@
-draft: t
 name: Dooragan National Park
 country: Australia
 region: New South Wales
 location:
-  - -31.664444
-  - 152.773889
+  - -31.654784
+  - 152.767717
+osm:
+  relation: 6050384
 features:
   national_park: true
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Dooragan_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/parks.nsf/ParkContent/N0108?OpenDocument&ParkKey=N0108&Type=Xk'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

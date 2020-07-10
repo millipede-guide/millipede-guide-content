@@ -1,0 +1,16 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="togpx"><metadata/><wpt lat="-30.086144" lon="151.256266"><name>Indwarra National Park</name><desc>type=park
+name=Indwarra National Park</desc></wpt><trk><name>Indwarra National Park</name><desc>boundary=protected_area
+iucn_level=IA
+leisure=nature_reserve
+name=Indwarra National Park
+natural=wood
+note=JOSM Simplify Way tool applied using a max error criterion set to 3m
+nswlpi:cadid=108021007
+operator=NSW National Parks and Wildlife Service
+operator:wikidata=Q6974770
+protect_class=1
+ref=N0135
+ref:capad2014_osm=NSW_N0135_IA
+source=LPI NSW NPWSReserve geometry 2015
+type=boundary
+website=https://www.environment.nsw.gov.au/resources/parks/PoMfinalIndwarraNP.pdf</desc><trkseg><trkpt lat="-30.0903815" lon="151.2646668"/><trkpt lat="-30.0821516" lon="151.2662637"/><trkpt lat="-30.0818636" lon="151.2642957"/><trkpt lat="-30.0764456" lon="151.2653517"/><trkpt lat="-30.0761106" lon="151.2630667"/><trkpt lat="-30.0692316" lon="151.2642586"/><trkpt lat="-30.0660748" lon="151.2402711"/><trkpt lat="-30.0785347" lon="151.2380852"/><trkpt lat="-30.0809027" lon="151.2421941"/><trkpt lat="-30.0811007" lon="151.2438271"/><trkpt lat="-30.0820467" lon="151.2440521"/><trkpt lat="-30.0841667" lon="151.2454351"/><trkpt lat="-30.0853467" lon="151.2466651"/><trkpt lat="-30.0868416" lon="151.2473721"/><trkpt lat="-30.0885366" lon="151.2492281"/><trkpt lat="-30.0890776" lon="151.251009"/><trkpt lat="-30.0917674" lon="151.2543907"/><trkpt lat="-30.0908451" lon="151.2545552"/><trkpt lat="-30.091056" lon="151.2561607"/><trkpt lat="-30.0923456" lon="151.255118"/><trkpt lat="-30.0925496" lon="151.255066"/><trkpt lat="-30.0892366" lon="151.2509"/><trkpt lat="-30.0886936" lon="151.2491121"/><trkpt lat="-30.0869416" lon="151.2471941"/><trkpt lat="-30.0854457" lon="151.2464861"/><trkpt lat="-30.0842737" lon="151.2452641"/><trkpt lat="-30.0821117" lon="151.2438541"/><trkpt lat="-30.0812627" lon="151.2436521"/><trkpt lat="-30.0810767" lon="151.2421181"/><trkpt lat="-30.0787327" lon="151.2380512"/><trkpt lat="-30.0946137" lon="151.2352654"/><trkpt lat="-30.0952737" lon="151.2402233"/><trkpt lat="-30.0973156" lon="151.254591"/><trkpt lat="-30.0976816" lon="151.254555"/><trkpt lat="-30.0993436" lon="151.2546631"/><trkpt lat="-30.0989155" lon="151.258343"/><trkpt lat="-30.1059415" lon="151.2570631"/><trkpt lat="-30.1067535" lon="151.2626699"/><trkpt lat="-30.0977755" lon="151.2641878"/><trkpt lat="-30.0985105" lon="151.2678808"/><trkpt lat="-30.0986295" lon="151.2686828"/><trkpt lat="-30.0912005" lon="151.2702307"/><trkpt lat="-30.0903815" lon="151.2646668"/></trkseg></trk></gpx>

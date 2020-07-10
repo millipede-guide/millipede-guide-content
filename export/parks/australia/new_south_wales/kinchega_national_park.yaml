@@ -1,14 +1,21 @@
-draft: t
 name: Kinchega National Park
 country: Australia
 region: New South Wales
 location:
-  - -32.544167
-  - 142.296944
+  - -32.499054
+  - 142.331033
+osm:
+  relation: 6333939
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Black_Box_%2815735669829%29.jpg/1200px-Black_Box_%2815735669829%29.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Black_Box_%2815735669829%29.jpg/1200px-Black_Box_%2815735669829%29.jpg'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Kinchega_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/Kinchega-National-Park'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

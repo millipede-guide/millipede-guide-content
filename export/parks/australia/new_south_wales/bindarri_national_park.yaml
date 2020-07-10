@@ -1,12 +1,18 @@
-draft: t
 name: Bindarri National Park
 country: Australia
 region: New South Wales
 location:
-  - -30.295
-  - 152.933056
+  - -30.299634
+  - 152.930922
+osm:
+  relation: 5925659
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bangalore_Falls%2C_Bindarri_National_Park.jpg/1200px-Bangalore_Falls%2C_Bindarri_National_Park.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bangalore_Falls%2C_Bindarri_National_Park.jpg/1200px-Bangalore_Falls%2C_Bindarri_National_Park.jpg'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Bindarri_National_Park'
 copyright:

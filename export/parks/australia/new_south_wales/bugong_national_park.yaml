@@ -1,10 +1,11 @@
-draft: t
 name: Bugong National Park
 country: Australia
 region: New South Wales
 location:
-  - -34.8225
-  - 150.446944
+  - -34.806655
+  - 150.457843
+osm:
+  relation: 6044250
 features:
   national_park: true
 links:

@@ -1,0 +1,22 @@
+{
+    "name": "Cascade National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -30.259705,
+        152.811726
+    ],
+    "osm": {
+        "relation": 5925792
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cascade_National_Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

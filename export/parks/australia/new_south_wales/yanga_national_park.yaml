@@ -1,10 +1,11 @@
-draft: t
 name: Yanga National Park
 country: Australia
 region: New South Wales
 location:
-  - -34.65
-  - 143.583056
+  - -34.433695
+  - 143.817028
+osm:
+  relation: 7132770
 features:
   national_park: true
 links:

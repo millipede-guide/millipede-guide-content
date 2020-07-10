@@ -1,10 +1,11 @@
-draft: t
 name: Crowdy Bay National Park
 country: Australia
 region: New South Wales
 location:
-  - -31.816389
-  - 152.721389
+  - -31.773751
+  - 152.743529
+osm:
+  relation: 6047323
 features:
   national_park: true
 links:

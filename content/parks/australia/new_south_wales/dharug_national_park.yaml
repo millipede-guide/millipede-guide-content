@@ -1,14 +1,21 @@
-draft: t
 name: Dharug National Park
 country: Australia
 region: New South Wales
 location:
-  - -33.368889
-  - 151.051944
+  - -33.379669
+  - 151.064632
+osm:
+  relation: 5825751
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hawkesbury_River_at_Wisemans_Ferry.jpg/1200px-Hawkesbury_River_at_Wisemans_Ferry.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hawkesbury_River_at_Wisemans_Ferry.jpg/1200px-Hawkesbury_River_at_Wisemans_Ferry.jpg'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Dharug_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/Dharug-National-Park'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

@@ -1,14 +1,21 @@
-draft: t
 name: Yengo National Park
 country: Australia
 region: New South Wales
 location:
-  - -33.042222
-  - 150.786111
+  - -33.073816
+  - 150.839281
+osm:
+  relation: 5828170
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/d/dc/Mount_Yengo.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/d/dc/Mount_Yengo.jpg'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Yengo_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/yengo-national-park'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

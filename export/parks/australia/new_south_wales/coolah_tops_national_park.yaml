@@ -1,14 +1,16 @@
-draft: t
 name: Coolah Tops National Park
 country: Australia
 region: New South Wales
 location:
-  - -31.750833
-  - 150.071389
+  - -31.765421
+  - 150.095804
+osm:
+  relation: 6024502
 features:
   national_park: true
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Coolah_Tops_National_Park'
+  official: 'https://www.nationalparks.nsw.gov.au/visit-a-park/parks/coolah-tops-national-park'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

@@ -1,10 +1,11 @@
-draft: t
 name: Clyde River National Park
 country: Australia
 region: New South Wales
 location:
-  - -35.678333
-  - 150.149167
+  - -35.682591
+  - 150.147971
+osm:
+  relation: 5857616
 features:
   national_park: true
 links:

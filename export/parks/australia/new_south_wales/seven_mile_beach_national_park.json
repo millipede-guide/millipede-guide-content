@@ -1,0 +1,22 @@
+{
+    "name": "Seven Mile Beach National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -34.817605,
+        150.738572
+    ],
+    "osm": {
+        "relation": 6055734
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Seven_Mile_Beach_National_Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

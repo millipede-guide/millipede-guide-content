@@ -1,12 +1,18 @@
-draft: t
 name: Booti Booti National Park
 country: Australia
 region: New South Wales
 location:
-  - -32.244444
-  - 152.543333
+  - -32.244475
+  - 152.5283
+osm:
+  relation: 6044249
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SevenMileBeach%28Forster%29NSW20100911-1.JPG/1200px-SevenMileBeach%28Forster%29NSW20100911-1.JPG'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SevenMileBeach%28Forster%29NSW20100911-1.JPG/1200px-SevenMileBeach%28Forster%29NSW20100911-1.JPG'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Booti_Booti_National_Park'
 copyright:

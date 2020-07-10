@@ -1,0 +1,22 @@
+{
+    "name": "Warra National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -29.99482,
+        151.930217
+    ],
+    "osm": {
+        "relation": 6019896
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Warra_National_Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

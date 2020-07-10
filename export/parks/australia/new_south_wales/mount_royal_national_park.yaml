@@ -1,14 +1,21 @@
-draft: t
 name: Mount Royal National Park
 country: Australia
 region: New South Wales
 location:
-  - -32.200278
-  - 151.323611
+  - -32.204326
+  - 151.303507
+osm:
+  relation: 6298500
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Mount_Royal_-_eucalytus_forest_2.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Mount_Royal_-_eucalytus_forest_2.jpg'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Mount_Royal_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/mount-royal-national-park'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

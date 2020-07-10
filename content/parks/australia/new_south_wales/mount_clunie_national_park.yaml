@@ -1,10 +1,11 @@
-draft: t
 name: Mount Clunie National Park
 country: Australia
 region: New South Wales
 location:
-  - -28.324167
-  - 152.52
+  - -28.31075
+  - 152.521723
+osm:
+  relation: 5940609
 features:
   national_park: true
 links:

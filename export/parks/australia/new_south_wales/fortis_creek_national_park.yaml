@@ -1,10 +1,11 @@
-draft: t
 name: Fortis Creek National Park
 country: Australia
 region: New South Wales
 location:
-  - -29.429722
-  - 152.879444
+  - -29.502001
+  - 152.933997
+osm:
+  relation: 5967876
 features:
   national_park: true
 links:

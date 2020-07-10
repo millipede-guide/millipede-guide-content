@@ -1,0 +1,23 @@
+{
+    "name": "Nangar National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -33.43296,
+        148.520171
+    ],
+    "osm": {
+        "relation": 6029505
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Nangar_National_Park",
+        "official": "http://www.nationalparks.nsw.gov.au/nangar-national-park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

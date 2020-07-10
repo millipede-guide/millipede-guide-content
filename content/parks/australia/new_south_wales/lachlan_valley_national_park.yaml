@@ -1,10 +1,11 @@
-draft: t
 name: Lachlan Valley National Park
 country: Australia
 region: New South Wales
 location:
-  - -33.756667
-  - 145.112778
+  - -33.305841
+  - 145.681801
+osm:
+  relation: 6012536
 features:
   national_park: true
 links:

@@ -1,10 +1,11 @@
-draft: t
 name: Single National Park
 country: Australia
 region: New South Wales
 location:
-  - -29.996944
-  - 151.411389
+  - -29.999975
+  - 151.411548
+osm:
+  relation: 6020175
 features:
   national_park: true
 links:

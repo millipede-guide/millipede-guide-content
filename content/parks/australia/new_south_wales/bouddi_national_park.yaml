@@ -1,14 +1,21 @@
-draft: t
 name: Bouddi National Park
 country: Australia
 region: New South Wales
 location:
-  - -33.516667
-  - 151.4
+  - -33.518259
+  - 151.40254
+osm:
+  relation: 7117852
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bouddi_NP_2.JPG/1200px-Bouddi_NP_2.JPG'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bouddi_NP_2.JPG/1200px-Bouddi_NP_2.JPG'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Bouddi_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/~/media/Visitor/Files/PDF/Brochures/bouddi-pdf.ashx'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

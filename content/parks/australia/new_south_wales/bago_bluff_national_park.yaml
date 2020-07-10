@@ -1,12 +1,18 @@
-draft: t
 name: Bago Bluff National Park
 country: Australia
 region: New South Wales
 location:
-  - -31.532222
-  - 152.628889
+  - -31.525224
+  - 152.636351
+osm:
+  relation: 6041440
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bago_Bluff.jpg/1200px-Bago_Bluff.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bago_Bluff.jpg/1200px-Bago_Bluff.jpg'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Bago_Bluff_National_Park'
 copyright:

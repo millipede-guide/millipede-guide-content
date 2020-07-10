@@ -1,0 +1,30 @@
+{
+    "name": "Nowendoc National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -31.504287,
+        151.580549
+    ],
+    "osm": {
+        "relation": 5761184
+    },
+    "features": {
+        "national_park": true
+    },
+    "photos": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Callaghans_Canyon.jpg/1200px-Callaghans_Canyon.jpg",
+            "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Callaghans_Canyon.jpg/1200px-Callaghans_Canyon.jpg",
+            "attr": "Wikimedia",
+            "license": "wikimedia"
+        }
+    ],
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Nowendoc_National_Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

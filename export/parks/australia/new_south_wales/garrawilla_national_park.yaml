@@ -1,10 +1,11 @@
-draft: t
 name: Garrawilla National Park
 country: Australia
 region: New South Wales
 location:
-  - -31.113056
-  - 149.638889
+  - -31.106697
+  - 149.630545
+osm:
+  relation: 6024310
 features:
   national_park: true
 links:

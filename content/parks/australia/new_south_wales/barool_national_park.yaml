@@ -1,10 +1,11 @@
-draft: t
 name: Barool National Park
 country: Australia
 region: New South Wales
 location:
-  - -29.660278
-  - 152.1925
+  - -29.671348
+  - 152.224233
+osm:
+  relation: 5926139
 features:
   national_park: true
 links:

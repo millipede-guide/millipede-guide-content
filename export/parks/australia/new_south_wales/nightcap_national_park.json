@@ -1,0 +1,30 @@
+{
+    "name": "Nightcap National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -28.560027,
+        153.321267
+    ],
+    "osm": {
+        "relation": 5928849
+    },
+    "features": {
+        "national_park": true
+    },
+    "photos": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Protesters_Falls_2015.jpg/1200px-Protesters_Falls_2015.jpg",
+            "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Protesters_Falls_2015.jpg/1200px-Protesters_Falls_2015.jpg",
+            "attr": "Wikimedia",
+            "license": "wikimedia"
+        }
+    ],
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Nightcap_National_Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

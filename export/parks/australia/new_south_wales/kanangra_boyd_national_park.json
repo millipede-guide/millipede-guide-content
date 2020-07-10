@@ -1,0 +1,31 @@
+{
+    "name": "Kanangra-Boyd National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -33.952803,
+        150.150247
+    ],
+    "osm": {
+        "relation": 5909870
+    },
+    "features": {
+        "national_park": true
+    },
+    "photos": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kanangra_view_of_valley_2002.jpg",
+            "href": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kanangra_view_of_valley_2002.jpg",
+            "attr": "Wikimedia",
+            "license": "wikimedia"
+        }
+    ],
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Kanangra-Boyd_National_Park",
+        "official": "http://www.nationalparks.nsw.gov.au/kanangra-boyd-national-park/map"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

@@ -1,10 +1,11 @@
-draft: t
 name: Goonengerry National Park
 country: Australia
 region: New South Wales
 location:
-  - -28.579722
-  - 153.404722
+  - -28.577024
+  - 153.407552
+osm:
+  relation: 5928756
 features:
   national_park: true
 links:

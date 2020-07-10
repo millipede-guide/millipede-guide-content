@@ -1,10 +1,11 @@
-draft: t
 name: Barakee National Park
 country: Australia
 region: New South Wales
 location:
-  - -31.641667
-  - 151.851667
+  - -31.624994
+  - 151.843531
+osm:
+  relation: 5763277
 features:
   national_park: true
 links:

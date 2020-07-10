@@ -1,14 +1,21 @@
-draft: t
 name: Culgoa National Park
 country: Australia
 region: New South Wales
 location:
-  - -29.080556
-  - 147.035278
+  - -29.066955
+  - 146.922455
+osm:
+  relation: 6012303
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Eucalyptus_coolabah_trees.jpg/1200px-Eucalyptus_coolabah_trees.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Eucalyptus_coolabah_trees.jpg/1200px-Eucalyptus_coolabah_trees.jpg'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Culgoa_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/culgoa-national-park'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

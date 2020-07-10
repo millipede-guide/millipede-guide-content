@@ -1,10 +1,11 @@
-draft: t
 name: Toorale National Park
 country: Australia
 region: New South Wales
 location:
-  - -30.265
-  - 145.401111
+  - -30.327049
+  - 145.438932
+osm:
+  relation: 6148781
 features:
   national_park: true
 links:

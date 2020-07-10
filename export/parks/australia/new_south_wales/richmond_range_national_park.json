@@ -1,0 +1,31 @@
+{
+    "name": "Richmond Range National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -28.600172,
+        152.709911
+    ],
+    "osm": {
+        "relation": 5948958
+    },
+    "features": {
+        "national_park": true
+    },
+    "photos": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Richmond_ranges.jpg",
+            "href": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Richmond_ranges.jpg",
+            "attr": "Wikimedia",
+            "license": "wikimedia"
+        }
+    ],
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Richmond_Range_National_Park",
+        "official": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/richmond-range-national-park/learn-more"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

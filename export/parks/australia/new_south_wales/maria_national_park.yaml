@@ -1,10 +1,11 @@
-draft: t
 name: Maria National Park
 country: Australia
 region: New South Wales
 location:
-  - -31.162778
-  - 152.873333
+  - -31.165305
+  - 152.896426
+osm:
+  relation: 6055649
 features:
   national_park: true
 links:

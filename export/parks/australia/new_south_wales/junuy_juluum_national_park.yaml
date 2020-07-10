@@ -1,10 +1,11 @@
-draft: t
 name: Junuy Juluum National Park
 country: Australia
 region: New South Wales
 location:
-  - -30.299167
-  - 152.727222
+  - -30.291135
+  - 152.720621
+osm:
+  relation: 6053128
 features:
   national_park: true
 links:

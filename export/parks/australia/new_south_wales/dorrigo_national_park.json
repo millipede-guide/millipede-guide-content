@@ -1,0 +1,22 @@
+{
+    "name": "Dorrigo National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -30.352337,
+        152.820021
+    ],
+    "osm": {
+        "relation": 5678193
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dorrigo_National_Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

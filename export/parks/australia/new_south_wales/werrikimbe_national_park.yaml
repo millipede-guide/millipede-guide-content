@@ -1,14 +1,21 @@
-draft: t
 name: Werrikimbe National Park
 country: Australia
 region: New South Wales
 location:
-  - -31.2
-  - 152.233333
+  - -31.211357
+  - 152.245225
+osm:
+  relation: 6089187
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Werrikimbe.jpg/1200px-Werrikimbe.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Werrikimbe.jpg/1200px-Werrikimbe.jpg'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Werrikimbe_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/werrikimbe-national-park'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

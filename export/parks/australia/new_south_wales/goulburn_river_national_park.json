@@ -1,0 +1,31 @@
+{
+    "name": "Goulburn River National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -32.319295,
+        150.185649
+    ],
+    "osm": {
+        "relation": 5910254
+    },
+    "features": {
+        "national_park": true
+    },
+    "photos": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Goulburn_River_at_Goulburn_River_Natiional_Park.JPG",
+            "href": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Goulburn_River_at_Goulburn_River_Natiional_Park.JPG",
+            "attr": "Wikimedia",
+            "license": "wikimedia"
+        }
+    ],
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Goulburn_River_National_Park",
+        "official": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/goulburn-river-national-park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

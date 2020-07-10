@@ -1,10 +1,11 @@
-draft: t
 name: Koreelah National Park
 country: Australia
 region: New South Wales
 location:
-  - -28.305278
-  - 152.438889
+  - -28.264249
+  - 152.480755
+osm:
+  relation: 5940601
 features:
   national_park: true
 links:

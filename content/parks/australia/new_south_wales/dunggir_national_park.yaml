@@ -1,14 +1,16 @@
-draft: t
 name: Dunggir National Park
 country: Australia
 region: New South Wales
 location:
-  - -30.676667
-  - 152.651944
+  - -30.655027
+  - 152.670134
+osm:
+  relation: 6052724
 features:
   national_park: true
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Dunggir_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/visit-a-park/parks/Dunggir-National-Park'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

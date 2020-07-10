@@ -1,4 +1,3 @@
-draft: t
 name: South East Forests National Park
 country: Australia
 region: New South Wales
@@ -7,6 +6,11 @@ location:
   - 149.476111
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/a/af/Elaeocarpus_holopetalus_hemiepiphyte_Devils_Creek_Tantawangalo.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/a/af/Elaeocarpus_holopetalus_hemiepiphyte_Devils_Creek_Tantawangalo.jpg'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/South_East_Forests_National_Park'
 copyright:

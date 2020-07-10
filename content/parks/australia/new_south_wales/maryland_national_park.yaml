@@ -1,10 +1,11 @@
-draft: t
 name: Maryland National Park
 country: Australia
 region: New South Wales
 location:
-  - -28.504722
-  - 152.077778
+  - -28.499572
+  - 152.075102
+osm:
+  relation: 5971370
 features:
   national_park: true
 links:

@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.138889,
+                    -33.783611
+                ]
+            },
+            "properties": {
+                "type": "park",
+                "name": "Lane Cove National Park"
+            }
+        }
+    ]
+}

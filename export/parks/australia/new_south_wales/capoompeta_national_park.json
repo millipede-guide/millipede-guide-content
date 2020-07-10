@@ -1,0 +1,23 @@
+{
+    "name": "Capoompeta National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -29.386733,
+        152.009109
+    ],
+    "osm": {
+        "relation": 5940786
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Capoompeta_National_Park",
+        "official": "http://www.nationalparks.nsw.gov.au/visit-a-park/parks/Capoompeta-National-Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

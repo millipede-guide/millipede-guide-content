@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.485,
+                    -35.871389
+                ]
+            },
+            "properties": {
+                "type": "park",
+                "name": "Woomargama National Park"
+            }
+        }
+    ],
+    "copyright": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+}

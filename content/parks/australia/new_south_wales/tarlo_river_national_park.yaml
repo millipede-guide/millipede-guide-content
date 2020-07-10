@@ -1,10 +1,11 @@
-draft: t
 name: Tarlo River National Park
 country: Australia
 region: New South Wales
 location:
-  - -34.501944
-  - 149.926111
+  - -34.514255
+  - 149.912974
+osm:
+  relation: 6055789
 features:
   national_park: true
 links:

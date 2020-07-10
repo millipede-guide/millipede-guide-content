@@ -1,0 +1,15 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="togpx"><metadata/><wpt lat="-29.999975" lon="151.411548"><name>Single National Park</name><desc>type=park
+name=Single National Park</desc></wpt><trk><name>Single National Park</name><desc>boundary=protected_area
+iucn_level=II
+leisure=nature_reserve
+name=Single National Park
+natural=wood
+note=JOSM Simplify Way tool applied using a max error criterion set to 3m
+nswlpi:cadid=108021011
+operator=NSW National Parks and Wildlife Service
+operator:wikidata=Q6974770
+protect_class=2
+ref=N0151
+ref:capad2014_osm=NSW_N0151_II
+source=LPI NSW NPWSReserve geometry 2015
+type=boundary</desc><trkseg><trkpt lat="-29.9815646" lon="151.4254853"/><trkpt lat="-29.9796017" lon="151.4108035"/><trkpt lat="-29.9766567" lon="151.4113155"/><trkpt lat="-29.9730579" lon="151.3842949"/><trkpt lat="-30.0018209" lon="151.3790242"/><trkpt lat="-29.9981291" lon="151.3517256"/><trkpt lat="-30.0075411" lon="151.3499787"/><trkpt lat="-30.0111599" lon="151.3773123"/><trkpt lat="-30.0192489" lon="151.3758283"/><trkpt lat="-30.0232147" lon="151.4046549"/><trkpt lat="-30.0180047" lon="151.4055828"/><trkpt lat="-30.0179227" lon="151.4063318"/><trkpt lat="-30.0071277" lon="151.4083047"/><trkpt lat="-30.0087246" lon="151.4199215"/><trkpt lat="-30.0069516" lon="151.4202175"/><trkpt lat="-30.0096715" lon="151.4419991"/><trkpt lat="-29.9935095" lon="151.444891"/><trkpt lat="-29.9917385" lon="151.444435"/><trkpt lat="-29.9905995" lon="151.442906"/><trkpt lat="-29.9919955" lon="151.440467"/><trkpt lat="-29.9919095" lon="151.439809"/><trkpt lat="-29.9915555" lon="151.4389391"/><trkpt lat="-29.9911395" lon="151.4360691"/><trkpt lat="-29.9903555" lon="151.4348971"/><trkpt lat="-29.9900696" lon="151.4342511"/><trkpt lat="-29.9899106" lon="151.4329352"/><trkpt lat="-29.9875686" lon="151.4310092"/><trkpt lat="-29.9876616" lon="151.4299702"/><trkpt lat="-29.9886206" lon="151.4279242"/><trkpt lat="-29.9880536" lon="151.4266273"/><trkpt lat="-29.9876756" lon="151.4267193"/><trkpt lat="-29.9845866" lon="151.4264963"/><trkpt lat="-29.9815646" lon="151.4254853"/></trkseg></trk></gpx>

@@ -1,0 +1,22 @@
+{
+    "name": "Bellinger River National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -30.410496,
+        152.698041
+    ],
+    "osm": {
+        "relation": 6041450
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bellinger_River_National_Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

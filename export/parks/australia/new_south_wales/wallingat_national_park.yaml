@@ -1,10 +1,11 @@
-draft: t
 name: Wallingat National Park
 country: Australia
 region: New South Wales
 location:
-  - -32.301111
-  - 152.435278
+  - -32.332357
+  - 152.462126
+osm:
+  relation: 6014632
 features:
   national_park: true
 links:

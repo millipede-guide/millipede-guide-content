@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.476111,
+                    -36.987222
+                ]
+            },
+            "properties": {
+                "type": "park",
+                "name": "South East Forests National Park"
+            }
+        }
+    ]
+}

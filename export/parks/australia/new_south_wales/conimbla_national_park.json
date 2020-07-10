@@ -1,0 +1,23 @@
+{
+    "name": "Conimbla National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -33.843501,
+        148.337107
+    ],
+    "osm": {
+        "relation": 5934543
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Conimbla_National_Park",
+        "official": "http://www.nationalparks.nsw.gov.au/~/media/visitor/files/PDF/Brochures/conimbla-pdf.aspx"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

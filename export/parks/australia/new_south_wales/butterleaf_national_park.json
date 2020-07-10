@@ -1,0 +1,23 @@
+{
+    "name": "Butterleaf National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -29.522037,
+        152.019444
+    ],
+    "osm": {
+        "relation": 5973058
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Butterleaf_National_Park",
+        "official": "http://www.nationalparks.nsw.gov.au/visit-a-park/parks/Butterleaf-National-Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

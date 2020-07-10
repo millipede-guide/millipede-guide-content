@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.028889,
+                    -36.371667
+                ]
+            },
+            "properties": {
+                "type": "park",
+                "name": "Wallaga Lake National Park"
+            }
+        }
+    ]
+}

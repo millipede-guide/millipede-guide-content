@@ -1,14 +1,21 @@
-draft: t
 name: Morton National Park
 country: Australia
 region: New South Wales
 location:
-  - -35.181944
-  - 150.208056
+  - -35.231966
+  - 150.211389
+osm:
+  relation: 1356411
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Belmore_Falls.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Belmore_Falls.jpg'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Morton_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/morton-national-park'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

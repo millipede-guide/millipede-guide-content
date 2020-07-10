@@ -1,10 +1,11 @@
-draft: t
 name: Warra National Park
 country: Australia
 region: New South Wales
 location:
-  - -29.991667
-  - 151.927778
+  - -29.99482
+  - 151.930217
+osm:
+  relation: 6019896
 features:
   national_park: true
 links:

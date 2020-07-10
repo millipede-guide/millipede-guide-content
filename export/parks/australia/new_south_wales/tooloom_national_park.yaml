@@ -1,14 +1,21 @@
-draft: t
 name: Tooloom National Park
 country: Australia
 region: New South Wales
 location:
-  - -28.446389
-  - 152.453611
+  - -28.450955
+  - 152.452591
+osm:
+  relation: 5953988
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/3/34/White_Beech_-_Tooloom.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/3/34/White_Beech_-_Tooloom.jpg'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Tooloom_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/tooloom-national-park'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

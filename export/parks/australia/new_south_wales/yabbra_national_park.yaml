@@ -1,10 +1,11 @@
-draft: t
 name: Yabbra National Park
 country: Australia
 region: New South Wales
 location:
-  - -29.944167
-  - 152.510833
+  - -28.634024
+  - 152.489022
+osm:
+  relation: 5956341
 features:
   national_park: true
 links:

@@ -1,10 +1,11 @@
-draft: t
 name: Mount Pikapene National Park
 country: Australia
 region: New South Wales
 location:
-  - -29.011111
-  - 152.695
+  - -29.011171
+  - 152.69481
+osm:
+  relation: 5964716
 features:
   national_park: true
 links:

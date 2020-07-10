@@ -1,0 +1,23 @@
+{
+    "name": "Gundabooka National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -30.579975,
+        145.745554
+    ],
+    "osm": {
+        "relation": 6142898
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Gundabooka_National_Park",
+        "official": "http://www.nationalparks.nsw.gov.au/Gundabooka-National-Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

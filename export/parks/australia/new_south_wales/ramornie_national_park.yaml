@@ -1,10 +1,11 @@
-draft: t
 name: Ramornie National Park
 country: Australia
 region: New South Wales
 location:
-  - -29.711389
-  - 152.673333
+  - -29.720417
+  - 152.668418
+osm:
+  relation: 6015060
 features:
   national_park: true
 links:

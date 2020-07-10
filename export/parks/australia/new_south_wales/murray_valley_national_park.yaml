@@ -1,10 +1,11 @@
-draft: t
 name: Murray Valley National Park
 country: Australia
 region: New South Wales
 location:
-  - -35.793333
-  - 145.026944
+  - -35.814304
+  - 145.106779
+osm:
+  relation: 5872853
 features:
   national_park: true
 links:

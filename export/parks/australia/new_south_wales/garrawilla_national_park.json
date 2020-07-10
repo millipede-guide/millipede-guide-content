@@ -1,0 +1,22 @@
+{
+    "name": "Garrawilla National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -31.106697,
+        149.630545
+    ],
+    "osm": {
+        "relation": 6024310
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Garrawilla_National_Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

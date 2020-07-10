@@ -1,10 +1,11 @@
-draft: t
 name: Chaelundi National Park
 country: Australia
 region: New South Wales
 location:
-  - -29.944167
-  - 152.510833
+  - -29.974173
+  - 152.49079
+osm:
+  relation: 5926026
 features:
   national_park: true
 links:

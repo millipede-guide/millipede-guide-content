@@ -1,10 +1,11 @@
-draft: t
 name: Wollumbin National Park
 country: Australia
 region: New South Wales
 location:
-  - -28.389722
-  - 153.268611
+  - -28.389609
+  - 153.257947
+osm:
+  relation: 5928022
 features:
   national_park: true
 links:

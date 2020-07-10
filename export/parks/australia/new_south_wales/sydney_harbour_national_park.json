@@ -1,0 +1,31 @@
+{
+    "name": "Sydney Harbour National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -33.812884,
+        151.290558
+    ],
+    "osm": {
+        "relation": 296933
+    },
+    "features": {
+        "national_park": true
+    },
+    "photos": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Headlands_%284603872649%29.jpg/1200px-Headlands_%284603872649%29.jpg",
+            "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Headlands_%284603872649%29.jpg/1200px-Headlands_%284603872649%29.jpg",
+            "attr": "Wikimedia",
+            "license": "wikimedia"
+        }
+    ],
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sydney_Harbour_National_Park",
+        "official": "http://www.nationalparks.nsw.gov.au/~/media/Visitor/Files/PDF/Brochures/sydney-harbour-part1-pdf.ashx"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

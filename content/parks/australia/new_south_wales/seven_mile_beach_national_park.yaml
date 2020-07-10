@@ -1,10 +1,11 @@
-draft: t
 name: Seven Mile Beach National Park
 country: Australia
 region: New South Wales
 location:
-  - -34.813333
-  - 150.756944
+  - -34.817605
+  - 150.738572
+osm:
+  relation: 6055734
 features:
   national_park: true
 links:

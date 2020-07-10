@@ -1,0 +1,31 @@
+{
+    "name": "Hat Head National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -31.090317,
+        153.023937
+    ],
+    "osm": {
+        "relation": 6054206
+    },
+    "features": {
+        "national_park": true
+    },
+    "photos": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pandanus_tectorius_at_Hat_Head_National_Park_NSW.jpg",
+            "href": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pandanus_tectorius_at_Hat_Head_National_Park_NSW.jpg",
+            "attr": "Wikimedia",
+            "license": "wikimedia"
+        }
+    ],
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hat_Head_National_Park",
+        "official": "http://www.nationalparks.nsw.gov.au/visit-a-park/parks/hat-head-national-park/learn-more#5CFE6DB769E4490E93C56351265C1A76"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

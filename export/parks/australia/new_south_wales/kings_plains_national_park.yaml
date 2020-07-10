@@ -1,10 +1,11 @@
-draft: t
 name: Kings Plains National Park
 country: Australia
 region: New South Wales
 location:
-  - -29.58
-  - 151.365556
+  - -29.59772
+  - 151.369672
+osm:
+  relation: 6017703
 features:
   national_park: true
 links:

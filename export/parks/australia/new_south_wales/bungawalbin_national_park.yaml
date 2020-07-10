@@ -1,14 +1,16 @@
-draft: t
 name: Bungawalbin National Park
 country: Australia
 region: New South Wales
 location:
-  - -29.098056
-  - 153.143889
+  - -29.082867
+  - 153.147932
+osm:
+  relation: 5965186
 features:
   national_park: true
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Bungawalbin_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/visit-a-park/parks/Bungawalbin-National-Park'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

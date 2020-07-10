@@ -1,0 +1,30 @@
+{
+    "name": "Murramarang National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -35.583023,
+        150.297441
+    ],
+    "osm": {
+        "relation": 5858067
+    },
+    "features": {
+        "national_park": true
+    },
+    "photos": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Murramarang_National_Park_-_Depot_Beach_-_Pascal_Vuylsteker.jpg/1200px-Murramarang_National_Park_-_Depot_Beach_-_Pascal_Vuylsteker.jpg",
+            "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Murramarang_National_Park_-_Depot_Beach_-_Pascal_Vuylsteker.jpg/1200px-Murramarang_National_Park_-_Depot_Beach_-_Pascal_Vuylsteker.jpg",
+            "attr": "Wikimedia",
+            "license": "wikimedia"
+        }
+    ],
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Murramarang_National_Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

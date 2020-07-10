@@ -1,12 +1,18 @@
-draft: t
 name: Gibraltar Range National Park
 country: Australia
 region: New South Wales
 location:
-  - -29.554444
-  - 152.323889
+  - -29.523872
+  - 152.359702
+osm:
+  relation: 5926112
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logrunner_male_lam_jan08.jpg/1200px-Logrunner_male_lam_jan08.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logrunner_male_lam_jan08.jpg/1200px-Logrunner_male_lam_jan08.jpg'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Gibraltar_Range_National_Park'
 copyright:

@@ -1,14 +1,21 @@
-draft: t
 name: Sturt National Park
 country: Australia
 region: New South Wales
 location:
-  - -29.093611
-  - 141.508889
+  - -29.164102
+  - 141.235263
+osm:
+  relation: 6110851
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/0/0e/Sturt_National_Park3_-_Dingo_Fence_-_CameronsCorner.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/0/0e/Sturt_National_Park3_-_Dingo_Fence_-_CameronsCorner.jpg'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Sturt_National_Park'
+  official: 'https://www.nationalparks.nsw.gov.au/visit-a-park/parks/sturt-national-park/learn-more'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

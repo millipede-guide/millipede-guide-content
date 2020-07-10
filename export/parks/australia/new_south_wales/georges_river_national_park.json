@@ -1,0 +1,31 @@
+{
+    "name": "Georges River National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -33.973847,
+        151.008936
+    ],
+    "osm": {
+        "relation": 6052939
+    },
+    "features": {
+        "national_park": true
+    },
+    "photos": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lugarno_Georges_River_National_Park.jpg/1200px-Lugarno_Georges_River_National_Park.jpg",
+            "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lugarno_Georges_River_National_Park.jpg/1200px-Lugarno_Georges_River_National_Park.jpg",
+            "attr": "Wikimedia",
+            "license": "wikimedia"
+        }
+    ],
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Georges_River_National_Park",
+        "official": "http://www.nationalparks.nsw.gov.au/georges-river-national-park/map"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

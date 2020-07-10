@@ -1,0 +1,23 @@
+{
+    "name": "Werakata National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -32.870718,
+        151.382198
+    ],
+    "osm": {
+        "relation": 5967443
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Werakata_National_Park",
+        "official": "http://www.nationalparks.nsw.gov.au/werakata-national-park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

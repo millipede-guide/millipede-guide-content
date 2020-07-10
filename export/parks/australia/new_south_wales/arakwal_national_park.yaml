@@ -1,12 +1,18 @@
-draft: t
 name: Arakwal National Park
 country: Australia
 region: New South Wales
 location:
-  - -28.660278
-  - 153.621111
+  - -28.65893
+  - 153.623607
+osm:
+  relation: 5937656
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Byron_Lighthouse_looking_south_2004-28-12.JPG/1200px-Byron_Lighthouse_looking_south_2004-28-12.JPG'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Byron_Lighthouse_looking_south_2004-28-12.JPG/1200px-Byron_Lighthouse_looking_south_2004-28-12.JPG'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Arakwal_National_Park'
 copyright:

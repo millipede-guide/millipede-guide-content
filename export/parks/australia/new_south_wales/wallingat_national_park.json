@@ -1,0 +1,22 @@
+{
+    "name": "Wallingat National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -32.332357,
+        152.462126
+    ],
+    "osm": {
+        "relation": 6014632
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Wallingat_National_Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

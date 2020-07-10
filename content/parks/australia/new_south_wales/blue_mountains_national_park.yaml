@@ -1,6 +1,6 @@
 name: Blue Mountains National Park
-region: New South Wales
 country: Australia
+region: New South Wales
 location:
   - -33.967778
   - 150.304167
@@ -15,6 +15,10 @@ fees:
     unit: vehicle
     time: day
 photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Australia_-_Part_3_%2827446932621%29.jpg/1200px-Australia_-_Part_3_%2827446932621%29.jpg'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Australia_-_Part_3_%2827446932621%29.jpg/1200px-Australia_-_Part_3_%2827446932621%29.jpg'
+    attr: Wikimedia
+    license: wikimedia
   - src: 'https://upload.wikimedia.org/wikipedia/commons/e/e5/Blue_Mountains_Range_%2842467940411%29.jpg'
     href: 'https://commons.wikimedia.org/wiki/File:Blue_Mountains_Range_(42467940411).jpg'
     attr: Nasir Khan Saikat

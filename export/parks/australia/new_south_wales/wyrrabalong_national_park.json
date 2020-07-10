@@ -1,0 +1,23 @@
+{
+    "name": "Wyrrabalong National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -33.297296,
+        151.532279
+    ],
+    "osm": {
+        "relation": 6055929
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Wyrrabalong_National_Park",
+        "official": "http://www.nationalparks.nsw.gov.au/Wyrrabalong-National-Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.185,
+                    -31.619722
+                ]
+            },
+            "properties": {
+                "type": "park",
+                "name": "Ben Halls Gap National Park"
+            }
+        }
+    ]
+}

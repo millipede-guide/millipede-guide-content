@@ -1,14 +1,16 @@
-draft: t
 name: Gulaga National Park
 country: Australia
 region: New South Wales
 location:
-  - -36.306667
-  - 150.019167
+  - -36.313007
+  - 150.02461
+osm:
+  relation: 6050137
 features:
   national_park: true
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Gulaga_National_Park'
+  official: 'https://www.nationalparks.nsw.gov.au/visit-a-park/parks/gulaga-national-park'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

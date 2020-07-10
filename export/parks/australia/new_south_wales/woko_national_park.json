@@ -1,0 +1,30 @@
+{
+    "name": "Woko National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -31.761282,
+        151.785731
+    ],
+    "osm": {
+        "relation": 5761193
+    },
+    "features": {
+        "national_park": true
+    },
+    "photos": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Woko_rainforest.jpg/1200px-Woko_rainforest.jpg",
+            "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Woko_rainforest.jpg/1200px-Woko_rainforest.jpg",
+            "attr": "Wikimedia",
+            "license": "wikimedia"
+        }
+    ],
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Woko_National_Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

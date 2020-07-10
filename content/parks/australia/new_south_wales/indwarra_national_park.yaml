@@ -1,10 +1,11 @@
-draft: t
 name: Indwarra National Park
 country: Australia
 region: New South Wales
 location:
-  - -30.085556
-  - 151.250556
+  - -30.086144
+  - 151.256266
+osm:
+  relation: 6020304
 features:
   national_park: true
 links:

@@ -1,10 +1,11 @@
-draft: t
 name: Kumbatine National Park
 country: Australia
 region: New South Wales
 location:
-  - -31.143056
-  - 152.601389
+  - -31.147866
+  - 152.60732
+osm:
+  relation: 6054095
 features:
   national_park: true
 links:

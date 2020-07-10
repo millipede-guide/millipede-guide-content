@@ -1,0 +1,23 @@
+{
+    "name": "Ghin-Doo-Ee National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -32.267855,
+        152.102736
+    ],
+    "osm": {
+        "relation": 6298343
+    },
+    "features": {
+        "national_park": true
+    },
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ghin-Doo-Ee_National_Park",
+        "official": "http://www.nationalparks.nsw.gov.au/visit-a-park/parks/GhinDooEe-National-Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

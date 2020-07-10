@@ -1,0 +1,31 @@
+{
+    "name": "Weddin Mountains National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -33.944845,
+        147.985946
+    ],
+    "osm": {
+        "relation": 5933717
+    },
+    "features": {
+        "national_park": true
+    },
+    "photos": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Weddin_Mountains_From_Eualdrie_Rd.jpg/1200px-Weddin_Mountains_From_Eualdrie_Rd.jpg",
+            "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Weddin_Mountains_From_Eualdrie_Rd.jpg/1200px-Weddin_Mountains_From_Eualdrie_Rd.jpg",
+            "attr": "Wikimedia",
+            "license": "wikimedia"
+        }
+    ],
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Weddin_Mountains_National_Park",
+        "official": "http://www.nationalparks.nsw.gov.au/parks.nsf/ParkContent/N0036?OpenDocument&ParkKey=N0036&Type=Xo"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

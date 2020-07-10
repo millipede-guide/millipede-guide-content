@@ -1,0 +1,31 @@
+{
+    "name": "Dharawal National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -34.197766,
+        150.857824
+    ],
+    "osm": {
+        "relation": 6038683
+    },
+    "features": {
+        "national_park": true
+    },
+    "photos": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dharawal_National_Park.jpg/1200px-Dharawal_National_Park.jpg",
+            "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dharawal_National_Park.jpg/1200px-Dharawal_National_Park.jpg",
+            "attr": "Wikimedia",
+            "license": "wikimedia"
+        }
+    ],
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dharawal_National_Park",
+        "official": "http://www.nationalparks.nsw.gov.au/Dharawal-National-Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

@@ -1,10 +1,11 @@
-draft: t
 name: Cunnawarra National Park
 country: Australia
 region: New South Wales
 location:
-  - -30.624722
-  - 152.217222
+  - -30.573523
+  - 152.29927
+osm:
+  relation: 6049444
 features:
   national_park: true
 links:

@@ -1,10 +1,11 @@
-draft: t
 name: Tomaree National Park
 country: Australia
 region: New South Wales
 location:
-  - -32.752778
-  - 152.140833
+  - -32.753879
+  - 152.141789
+osm:
+  relation: 6055802
 features:
   national_park: true
 links:

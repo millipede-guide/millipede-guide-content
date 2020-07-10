@@ -1,10 +1,11 @@
-draft: t
 name: Bellinger River National Park
 country: Australia
 region: New South Wales
 location:
-  - -30.409444
-  - 152.693889
+  - -30.410496
+  - 152.698041
+osm:
+  relation: 6041450
 features:
   national_park: true
 links:

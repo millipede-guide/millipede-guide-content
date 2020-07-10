@@ -1,14 +1,21 @@
-draft: t
 name: Bundjalung National Park
 country: Australia
 region: New South Wales
 location:
-  - -29.2475
-  - 153.328611
+  - -29.261503
+  - 153.312477
+osm:
+  relation: 5815155
 features:
   national_park: true
+photos:
+  - src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bundjalung_National_Park_Woody_Head_Lookout.JPG/1200px-Bundjalung_National_Park_Woody_Head_Lookout.JPG'
+    href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bundjalung_National_Park_Woody_Head_Lookout.JPG/1200px-Bundjalung_National_Park_Woody_Head_Lookout.JPG'
+    attr: Wikimedia
+    license: wikimedia
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Bundjalung_National_Park'
+  official: 'http://www.nationalparks.nsw.gov.au/visit-a-park/parks/Bundjalung-National-Park'
 copyright:
   - Wikipedia
 license: CC BY-NC-SA 4.0

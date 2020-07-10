@@ -1,0 +1,30 @@
+{
+    "name": "Warrabah National Park",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location": [
+        -30.549487,
+        150.95461
+    ],
+    "osm": {
+        "relation": 8275095
+    },
+    "features": {
+        "national_park": true
+    },
+    "photos": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Warrabah_National_Park.jpg/1200px-Warrabah_National_Park.jpg",
+            "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Warrabah_National_Park.jpg/1200px-Warrabah_National_Park.jpg",
+            "attr": "Wikimedia",
+            "license": "wikimedia"
+        }
+    ],
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Warrabah_National_Park"
+    },
+    "copyright": [
+        "Wikipedia"
+    ],
+    "license": "CC BY-NC-SA 4.0"
+}

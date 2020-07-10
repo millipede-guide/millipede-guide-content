@@ -2077,5 +2077,872 @@
         "ok": true,
         "exif": true,
         "year": 2019
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Byron_Lighthouse_looking_south_2004-28-12.JPG/1200px-Byron_Lighthouse_looking_south_2004-28-12.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/arakwal_national_park.yaml"
+        ],
+        "hash": "3e0b606d5fcab0aa3632381f2f504bb2",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bago_Bluff.jpg/1200px-Bago_Bluff.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/bago_bluff_national_park.yaml"
+        ],
+        "hash": "d6c8b2681d25281a8cbf57f9b8bf3718",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/b/b4/Baldrockvista1_email.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/bald_rock_national_park.yaml"
+        ],
+        "hash": "b8a7f327b0c2bb126d38398cc1bb15bd",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/0/0f/Barrington_lookout.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/barrington_tops_national_park.yaml"
+        ],
+        "hash": "8ae8ffa12d9a5c420dc5ad9834c7a7d0",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2005
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ben_Boyds_Tower.JPG/1200px-Ben_Boyds_Tower.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/ben_boyd_national_park.yaml"
+        ],
+        "hash": "019129c2cacc6661348103aa21e30e3e",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ben_Halls_Gap_National_Park.jpg/1200px-Ben_Halls_Gap_National_Park.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/ben_halls_gap_national_park.yaml"
+        ],
+        "hash": "5aa30ad9c061231d2e9aab2928f79dd1",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mumbulla_Mountain_from_Princes_Highway.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/biamanga_national_park.yaml"
+        ],
+        "hash": "2ea614c5b0d12a4bd7cc826a342684e4",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2011
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bangalore_Falls%2C_Bindarri_National_Park.jpg/1200px-Bangalore_Falls%2C_Bindarri_National_Park.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/bindarri_national_park.yaml"
+        ],
+        "hash": "8b3d28a296966312ea6ebea477558614",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Australia_-_Part_3_%2827446932621%29.jpg/1200px-Australia_-_Part_3_%2827446932621%29.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/blue_mountains_national_park.yaml"
+        ],
+        "hash": "fe1cf14832d900335e901ba25afae221",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bongil_Bongil_National_Park.jpg/1200px-Bongil_Bongil_National_Park.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/bongil_bongil_national_park.yaml"
+        ],
+        "hash": "d1518c54621be32dfa08e321333550e4",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SevenMileBeach%28Forster%29NSW20100911-1.JPG/1200px-SevenMileBeach%28Forster%29NSW20100911-1.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/booti_booti_national_park.yaml"
+        ],
+        "hash": "98dca71303f12142b37b0bda3ad983f8",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/e/e9/BrindleCreek.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/border_ranges_national_park.yaml"
+        ],
+        "hash": "c3e66ee4ea39bbdb4b0184d5b426cbbb",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bouddi_NP_2.JPG/1200px-Bouddi_NP_2.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/bouddi_national_park.yaml"
+        ],
+        "hash": "6f4b9b5481ca8fef2a3d4e4496214ee8",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bournda_Bournda-Island.JPG/1200px-Bournda_Bournda-Island.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/bournda_national_park.yaml"
+        ],
+        "hash": "358abc7cc54a1ce6e4de59bcd31e1d54",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/7/7c/Brisbane_Water_National_Park_from_Bar_Point.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/brisbane_water_national_park.yaml"
+        ],
+        "hash": "28da2e738eeb6a7b0ba4d096c83eb360",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2009
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/e/e0/Broadwater_coffeerock_NSW.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/broadwater_national_park.yaml"
+        ],
+        "hash": "2fe640c1d78f213e8691adaabfb079c5",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/b/be/Minnamurra_Falls_2012.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/budderoo_national_park.yaml"
+        ],
+        "hash": "152f2c7d014de42710791be6ee262e37",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2012
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bundjalung_National_Park_Woody_Head_Lookout.JPG/1200px-Bundjalung_National_Park_Woody_Head_Lookout.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/bundjalung_national_park.yaml"
+        ],
+        "hash": "99f631dd21d14ed425583be079bdce43",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bungonia_lookdown3.jpg/1200px-Bungonia_lookdown3.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/bungonia_national_park.yaml"
+        ],
+        "hash": "b5f3087f53201824cd9999c9612e804c",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cathedral_Rock_NP.JPG/1200px-Cathedral_Rock_NP.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/cathedral_rock_national_park.yaml"
+        ],
+        "hash": "0c12cfb1854f2bc0bf4bc815146b9a84",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cattai_national_park_view_from_cattai_wharf.jpg/1200px-Cattai_national_park_view_from_cattai_wharf.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/cattai_national_park.yaml"
+        ],
+        "hash": "c0dfe3997746dd42831177b05f5d5ba4",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/9/9f/Cocoparra_valley_view.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/cocoparra_national_park.yaml"
+        ],
+        "hash": "5c1bcb1c4031bae5beaef5b8594307ae",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Conjola_National_Park.jpg/1200px-Conjola_National_Park.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/conjola_national_park.yaml"
+        ],
+        "hash": "1d9d85b4f0683afec0e7489f2c8c9e47",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coorabakh_National_Park_Big_Nellie_Mountain_from_Little_Nellie.jpg/1200px-Coorabakh_National_Park_Big_Nellie_Mountain_from_Little_Nellie.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/coorabakh_national_park.yaml"
+        ],
+        "hash": "800e3cb2d5f1c5d763060a14a17b11f5",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cottan-Bimbang_NP.JPG/1200px-Cottan-Bimbang_NP.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/cottan_bimbang_national_park.yaml"
+        ],
+        "hash": "9448c440b1ff248dfc21765517d5ced5",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Eucalyptus_coolabah_trees.jpg/1200px-Eucalyptus_coolabah_trees.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/culgoa_national_park.yaml"
+        ],
+        "hash": "d882f216c38b962c210677cb4f841c7b",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/9/92/Pinkwood_Rainforest_-_Deua_National_Park.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/deua_national_park.yaml"
+        ],
+        "hash": "5ef2f9a7b70d052d07a903fcc454b128",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2006
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dharawal_National_Park.jpg/1200px-Dharawal_National_Park.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/dharawal_national_park.yaml"
+        ],
+        "hash": "6a9d8357b5740b6503708c5802ba89f7",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hawkesbury_River_at_Wisemans_Ferry.jpg/1200px-Hawkesbury_River_at_Wisemans_Ferry.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/dharug_national_park.yaml"
+        ],
+        "hash": "4b2da30075781440d77e429ed420808f",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/0/0c/Freshlake_Comfortably_Gruntled.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/eurobodalla_national_park.yaml"
+        ],
+        "hash": "4fb5f5903ba2258f9ef687489fa92d5c",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gardens_of_Stone_NSW_Australia_1.jpg/1200px-Gardens_of_Stone_NSW_Australia_1.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/gardens_of_stone_national_park.yaml"
+        ],
+        "hash": "29e4a75846c75e792529fcd29f0e6ff0",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Garigal_National_Park.jpg/1200px-Garigal_National_Park.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/garigal_national_park.yaml"
+        ],
+        "hash": "27086367ec8687483b174ff446a7926e",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lugarno_Georges_River_National_Park.jpg/1200px-Lugarno_Georges_River_National_Park.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/georges_river_national_park.yaml"
+        ],
+        "hash": "9f97441b3af9c88745e14685f44b29ef",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logrunner_male_lam_jan08.jpg/1200px-Logrunner_male_lam_jan08.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/gibraltar_range_national_park.yaml"
+        ],
+        "hash": "55a582c2800b9d6b540d59fbcb3c3e56",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/d/d2/Caloma_lookout_January_2016.2.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/goobang_national_park.yaml"
+        ],
+        "hash": "ea8d1385aa189d0a5521c6d0be9c0d92",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2016
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/b/b1/Goulburn_River_at_Goulburn_River_Natiional_Park.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/goulburn_river_national_park.yaml"
+        ],
+        "hash": "b86fe35b4b4f948b3e36c016bea59039",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Guy_Fawkes_R.JPG/1200px-Guy_Fawkes_R.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/guy_fawkes_river_national_park.yaml"
+        ],
+        "hash": "37bd652c4da3ff150e9bb54dc9aab12d",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/6/68/Pandanus_tectorius_at_Hat_Head_National_Park_NSW.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/hat_head_national_park.yaml"
+        ],
+        "hash": "37637596acba56606643c0038f3b7546",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2009
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Heathcote_National_Park_1.jpg/1200px-Heathcote_National_Park_1.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/heathcote_national_park.yaml"
+        ],
+        "hash": "c3faa3eadfc422e783d946813d3cb066",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/View_across_Botany_Bay_from_Inscription_Point.jpg/1200px-View_across_Botany_Bay_from_Inscription_Point.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/kamay_botany_bay_national_park.yaml"
+        ],
+        "hash": "be5d39cf220e60563b3019f3050cb571",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/8/87/Kanangra_view_of_valley_2002.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/kanangra_boyd_national_park.yaml"
+        ],
+        "hash": "4a8c8375b476bbbbfa9deea1b8648941",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Black_Box_%2815735669829%29.jpg/1200px-Black_Box_%2815735669829%29.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/kinchega_national_park.yaml"
+        ],
+        "hash": "2b86d9895a5b492cb75fea1b87138992",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Towlers_Bay_AL.jpg/1200px-Towlers_Bay_AL.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/ku_ring_gai_chase_national_park.yaml"
+        ],
+        "hash": "2a133ef83379a28fbf4e024ab97ab225",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/MacIntyre_Falls.JPG/1200px-MacIntyre_Falls.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/kwiambal_national_park.yaml"
+        ],
+        "hash": "0fc2970bb50ad1dea4ef3576b5471125",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/%281%29upper_Lane_Cove_River.jpg/1200px-%281%29upper_Lane_Cove_River.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/lane_cove_national_park.yaml"
+        ],
+        "hash": "fb02e861798c5a29dc1e566e249f7e7f",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/d/df/Macquarie_Pass_NP_rainforest.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/macquarie_pass_national_park.yaml"
+        ],
+        "hash": "19183fd4c977d69799771c16963a456c",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2009
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/a/a9/Hoop_Pines_at_Mallanganee_National_Park.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/mallanganee_national_park.yaml"
+        ],
+        "hash": "c3360090ba801fae20f992479e1adf00",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2017,
+        "location": [
+            -28.898948,
+            152.74087
+        ]
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/0/01/Eucalyptus_dumosa.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/mallee_cliffs_national_park.yaml"
+        ],
+        "hash": "83e980ec65a11b0e7422ebd4d95f54e6",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2007
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%281%29Berowra_Creek_Marramarra_NP.jpg/1200px-%281%29Berowra_Creek_Marramarra_NP.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/marramarra_national_park.yaml"
+        ],
+        "hash": "5b8f7403a80476453389b37a031a869e",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Meroo_Nat_Park_1.JPG/1200px-Meroo_Nat_Park_1.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/meroo_national_park.yaml"
+        ],
+        "hash": "e3f2a6506859dbe35a6f6baf3cb6ad54",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MimosaRock.JPG/1200px-MimosaRock.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/mimosa_rocks_national_park.yaml"
+        ],
+        "hash": "69be886173935e7e02b165675327250d",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/5/51/Belmore_Falls.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/morton_national_park.yaml"
+        ],
+        "hash": "0cda4ba4fbe7fd8c64253509a1e8e492",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mount_Imlay_from_the_walking_trail.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/mount_imlay_national_park.yaml"
+        ],
+        "hash": "1f5e31d5831e3f3885a6d991f26301bd",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lake_on_koonyum_range_%2815931139568%29.jpg/1200px-Lake_on_koonyum_range_%2815931139568%29.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/mount_jerusalem_national_park.yaml"
+        ],
+        "hash": "6ad9331965d75132ae41f68fd5345a42",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/0/06/Mount_Kaputar.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/mount_kaputar_national_park.yaml"
+        ],
+        "hash": "cfe8f02703e8e4baa6cd4b5246f66a35",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mount_Royal_-_eucalytus_forest_2.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/mount_royal_national_park.yaml"
+        ],
+        "hash": "15f84ee660bc371c753ec9d4b09b7975",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2006
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/NewCountrySwamp.JPG/1200px-NewCountrySwamp.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/mummel_gulf_national_park.yaml"
+        ],
+        "hash": "38a2143b3567bf9e948d418161735de5",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/MungoNP.jpg/1200px-MungoNP.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/mungo_national_park.yaml"
+        ],
+        "hash": "6fdf7d76ec81f0588fc74dda6298e305",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://live.staticflickr.com/8734/16594221037_57707b7dea_k_d.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/mungo_national_park.yaml"
+        ],
+        "hash": "b0ddca9d993b94212b96a2efb9b62888",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Murramarang_National_Park_-_Depot_Beach_-_Pascal_Vuylsteker.jpg/1200px-Murramarang_National_Park_-_Depot_Beach_-_Pascal_Vuylsteker.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/murramarang_national_park.yaml"
+        ],
+        "hash": "c392d8142dccd495674f8e0b7c7ee676",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/MIA_1_precinct_of_the_Murrumbidgee_Valley_National_Park_%284%29.jpg/1200px-MIA_1_precinct_of_the_Murrumbidgee_Valley_National_Park_%284%29.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/murrumbidgee_valley_national_park.yaml"
+        ],
+        "hash": "26a181c792a2f2db26e4c38e272e317b",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/b/b9/Mootwingie_rock_art_-_Mutawintji_National_Park.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/mutawintji_national_park.yaml"
+        ],
+        "hash": "ef07cb60607624ab801e0fba5c3ad4e3",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Myall_Lakes_National_Park.jpg/1200px-Myall_Lakes_National_Park.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/myall_lakes_national_park.yaml"
+        ],
+        "hash": "1f38b2508d63b9c7becd4ab2bdf9711c",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/a/af/Nattai_National_Park%2C_Wollondilly_Lookout_sridgway.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/nattai_national_park.yaml"
+        ],
+        "hash": "c4c21ddb961e86edc75af864661216be",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/View_from_Point_Lookout.jpg/1200px-View_from_Point_Lookout.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/new_england_national_park.yaml"
+        ],
+        "hash": "7af9c674de88a1796d09b455808060f1",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Protesters_Falls_2015.jpg/1200px-Protesters_Falls_2015.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/nightcap_national_park.yaml"
+        ],
+        "hash": "d52181df475e94094bce1b4f12942341",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Callaghans_Canyon.jpg/1200px-Callaghans_Canyon.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/nowendoc_national_park.yaml"
+        ],
+        "hash": "860c38b6d527d2e62e10c993d0103a33",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/a/a8/Coachwood_-Nymboi-Binderay_National_Park.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/nymboi_binderay_national_park.yaml"
+        ],
+        "hash": "17238af16a71807ed685954db49d4781",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2008
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nymboida_NP_%2815045039144%29.jpg/1200px-Nymboida_NP_%2815045039144%29.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/nymboida_national_park.yaml"
+        ],
+        "hash": "75fc39bb1f908bfd0e51f8a5fa855b10",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Apsley_Falls_7.JPG/1200px-Apsley_Falls_7.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/oxley_wild_rivers_national_park.yaml"
+        ],
+        "hash": "af4e541c463640894406258e83cc98bd",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hawkesbury_River_05.jpg/1200px-Hawkesbury_River_05.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/popran_national_park.yaml"
+        ],
+        "hash": "b190f9346c38a0876f21352217cdb26b",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/f/fd/Richmond_ranges.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/richmond_range_national_park.yaml"
+        ],
+        "hash": "28530a794119cbdf79a7ddd861390cd6",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Late_Afternoon_at_North_%26_South_Era.jpg/1200px-Late_Afternoon_at_North_%26_South_Era.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/royal_national_park.yaml"
+        ],
+        "hash": "70a8c7feb1a973b9c38fff1df7ccc5f5",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Scheyville_national_park_longneck_lagoon_north_swamp.jpg/1200px-Scheyville_national_park_longneck_lagoon_north_swamp.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/scheyville_national_park.yaml"
+        ],
+        "hash": "bab2c83281fda126ec0d4b846e6955c7",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/8/86/Sea_Acres_Bangalow_Palm.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/sea_acres_national_park.yaml"
+        ],
+        "hash": "33f245363ce435ded12834c54ec14b4c",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2012
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/a/af/Elaeocarpus_holopetalus_hemiepiphyte_Devils_Creek_Tantawangalo.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/south_east_forests_national_park.yaml"
+        ],
+        "hash": "9a122a95ec9de5afd425de09b3553042",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/0/0e/Sturt_National_Park3_-_Dingo_Fence_-_CameronsCorner.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/sturt_national_park.yaml"
+        ],
+        "hash": "fc335a1e1e855531439c2bd1d0ae48ed",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Headlands_%284603872649%29.jpg/1200px-Headlands_%284603872649%29.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/sydney_harbour_national_park.yaml"
+        ],
+        "hash": "426416192189b69dc8923456a62bfc1f",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Yellow_Carabeen_Tapin_Tops.jpg/1200px-Yellow_Carabeen_Tapin_Tops.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/tapin_tops_national_park.yaml"
+        ],
+        "hash": "cc280ed3f62aee604a4f5acdb8feff3a",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Thirlmere.jpg/1200px-Thirlmere.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/thirlmere_lakes_national_park.yaml"
+        ],
+        "hash": "885dbb2abc7634aa1eca62222386bfc1",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/3/34/White_Beech_-_Tooloom.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/tooloom_national_park.yaml"
+        ],
+        "hash": "468a14e88ce17e4b7b9e7f6526daa9f7",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2008
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/2/28/Toonumbar_National_Park_Murray_Scrub_January_1995.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/toonumbar_national_park.yaml"
+        ],
+        "hash": "870225366e253b7cb8dc48b622a6ce3c",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2008
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/5/5d/Wadbilliga_rocky_scenery.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/wadbilliga_national_park.yaml"
+        ],
+        "hash": "08dbe4248e7c415707aab9a4d36b580d",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2011
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Warrabah_National_Park.jpg/1200px-Warrabah_National_Park.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/warrabah_national_park.yaml"
+        ],
+        "hash": "857f50aae21d98c3f2975e90694e53ab",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Breadknife.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/warrumbungle_national_park.yaml"
+        ],
+        "hash": "e1539b715824e91e8d36b775f41bab47",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/2/28/Washpool.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/washpool_national_park.yaml"
+        ],
+        "hash": "415a7ac8614d27791e3206d5a0ae1544",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Weddin_Mountains_From_Eualdrie_Rd.jpg/1200px-Weddin_Mountains_From_Eualdrie_Rd.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/weddin_mountains_national_park.yaml"
+        ],
+        "hash": "8293609621cf761b6652a903b3193860",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Werrikimbe.jpg/1200px-Werrikimbe.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/werrikimbe_national_park.yaml"
+        ],
+        "hash": "35942a7ec6390bf33ad2ec052682d9ed",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/2/29/Mount_Banda_Banda_seen_from_Number_1_fire_tower.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/willi_willi_national_park.yaml"
+        ],
+        "hash": "6fa06002239e24c4cc6d99a1a7afa7d0",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Woko_rainforest.jpg/1200px-Woko_rainforest.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/woko_national_park.yaml"
+        ],
+        "hash": "662ea9f25ff962b630d5fab3a5d169eb",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/3/3e/%281%29Capertee_River.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/wollemi_national_park.yaml"
+        ],
+        "hash": "75583111dcd729abf74f95245e3d19bc",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": true,
+        "year": 2013
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Yarrobilwoodland.jpg/1200px-Yarrobilwoodland.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/yarrobil_national_park.yaml"
+        ],
+        "hash": "61d4dc76e86cb2a7b22a0595bede5d68",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/d/dc/Mount_Yengo.jpg": {
+        "pages": [
+            "/parks/australia/new_south_wales/yengo_national_park.yaml"
+        ],
+        "hash": "2257d03d7c02a8178c50bac51d839ddf",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sternopriscus_weiri_New_South_Wales_Yuraygir_NP_Minnie_Water_Lake.JPG/1200px-Sternopriscus_weiri_New_South_Wales_Yuraygir_NP_Minnie_Water_Lake.JPG": {
+        "pages": [
+            "/parks/australia/new_south_wales/yuraygir_national_park.yaml"
+        ],
+        "hash": "ec732de16da9ca2fc893e519772b2059",
+        "ext": ".jpg",
+        "ok": true,
+        "exif": false
     }
 }
