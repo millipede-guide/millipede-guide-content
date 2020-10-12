@@ -13,23 +13,23 @@ osm:
 photos:
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9857.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9857.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9833.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9833.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9836.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9836.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9841.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9841.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9851.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/canyon_overlook_trail/IMG_9851.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
 features:
   steps: true
@@ -85,5 +85,5 @@ natural:
       name: Pine Creek Canyon
       show: true
 copyright:
-  - Reilly Beacom
+  - multipolygon
 license: CC BY-NC-SA 4.0

@@ -15,15 +15,15 @@ nearest_town:
 photos:
   - src: 'https://multipolygon.net/photos/shared/millipede/attractions/australia/nsw/blue_mountains_national_park/evans_lookout/IMG_4821.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/attractions/australia/nsw/blue_mountains_national_park/evans_lookout/IMG_4821.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/attractions/australia/nsw/blue_mountains_national_park/evans_lookout/IMG_4694.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/attractions/australia/nsw/blue_mountains_national_park/evans_lookout/IMG_4694.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/attractions/australia/nsw/blue_mountains_national_park/evans_lookout/IMG_4675.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/attractions/australia/nsw/blue_mountains_national_park/evans_lookout/IMG_4675.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
 features:
   viewpoint: true
@@ -51,5 +51,5 @@ infrastructure:
       tags:
         surface: asphalt
 copyright:
-  - Reilly Beacom
+  - multipolygon
 license: CC BY-NC-SA 4.0

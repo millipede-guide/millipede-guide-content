@@ -12,7 +12,7 @@ features:
 photos:
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9698.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9698.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
 links:
   wikipedia: 'https://en.wikipedia.org/wiki/Zion_National_Park'

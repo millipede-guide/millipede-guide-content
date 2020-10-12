@@ -19,51 +19,51 @@ features:
 photos:
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9698.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9698.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9718.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9718.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9735.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9735.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9760.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9760.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9769.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9769.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9785.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9785.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9788.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9788.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9790.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9790.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9792.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9792.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9797.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9797.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9808.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9808.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
   - src: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9811.jpg'
     href: 'https://multipolygon.net/photos/shared/millipede/routes/usa/ut/zion_national_park/angels_landing/IMG_9811.jpg'
-    attr: Reilly Beacom
+    attr: multipolygon
     license: CC BY-NC-SA 4.0
 natural:
   viewpoint:
@@ -129,5 +129,5 @@ infrastructure:
       name: Zion Canyon Visitor Center
       show: true
 copyright:
-  - Reilly Beacom
+  - multipolygon
 license: CC BY-NC-SA 4.0
